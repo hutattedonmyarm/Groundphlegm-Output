@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Fri, 5 Jun 2020 12:08:33 +0200</lastBuildDate>
-        <pubDate>Fri, 5 Jun 2020 12:08:33 +0200</pubDate>
+        <lastBuildDate>Fri, 5 Jun 2020 18:57:33 +0200</lastBuildDate>
+        <pubDate>Fri, 5 Jun 2020 18:57:33 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-05_Cosmic_Hard_Drive</guid>
+            <title>Black holes could store information like holograms</title>
+            <description>Physicists theories that we *could* think of black holes as holograms and hold information</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-05_Cosmic_Hard_Drive</link>
+            <pubDate>Fri, 5 Jun 2020 18:56:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>The physics kind of hologram, not the Star Trek kind. Sorry!</p><p>I generally find physics super interesting, even though I barely understand any of it. To be fair, I'm not alone, a lot more in modern physics is an enormous question mark than most people realize. We basically <a href="http://phdcomics.com/noidea/">have no idea</a> what's going on.</p><p>Quantum gravity is a complex beast; gravity turns out to be super weird in all sorts of ways and we (that is, man very very smart people) haven't figured out yet how to combine quantum theory and gravity.</p><p>This new paper is based on the <a href="https://en.wikipedia.org/wiki/Holographic_principle">holographic principle</a> (no, not the <a href="https://album.link/en/i/1458752909">Epica Album</a> although it's pretty good. Go listen to it!) and therefore based on <a href="https://en.wikipedia.org/wiki/String_theory">String Theory</a>. That's super deep into "no fucking clue" territory.</p><p>Anyways, I still think it's a cool idea!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-05_AMC_bankruptcy</guid>
             <title>AMC's bankruptcy is the first domino in monopolist collapse</title>
