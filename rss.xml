@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sat, 6 Jun 2020 07:32:49 +0200</lastBuildDate>
-        <pubDate>Sat, 6 Jun 2020 07:32:49 +0200</pubDate>
+        <lastBuildDate>Mon, 8 Jun 2020 18:46:34 +0200</lastBuildDate>
+        <pubDate>Mon, 8 Jun 2020 18:46:34 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-08_Black_Lives_Matter</guid>
+            <title>Black Lives Matter</title>
+            <description>Black Lives Matter.</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-08_Black_Lives_Matter</link>
+            <pubDate>Mon, 8 Jun 2020 18:45:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>The title links to the <em>This Is Only A Test</em> video about the issue (which is also available as a podcast on all your favourite podcast players) discussing the current issues and protests. Give it a watch/listen.</p><p>Also check out <a href="https://www.youtube.com/watch?v=o-_WXXVye3Y">MKBHD’s video</a> about the situation</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-06_Instagram_embedding</guid>
             <title>Instagram just threw users of its embedding API under the bus</title>
