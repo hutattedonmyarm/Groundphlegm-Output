@@ -5,14 +5,22 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Thu, 11 Jun 2020 07:32:47 +0200</lastBuildDate>
-        <pubDate>Thu, 11 Jun 2020 07:32:47 +0200</pubDate>
+        <lastBuildDate>Thu, 11 Jun 2020 07:57:19 +0200</lastBuildDate>
+        <pubDate>Thu, 11 Jun 2020 07:57:19 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-11_ARM_Macs</guid>
+            <title>Apple plans to announce ARM transition for all Macs at WWDC 2020</title>
+            <description>Rumor about Apple announcing custom ARM chips for their Mac lineup are manifesting again</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-11_ARM_Macs</link>
+            <pubDate>Thu, 11 Jun 2020 07:56:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>First of all: WWDC is in two weeks, so we’ll then see if that’s true or not. Rumors about Apple transitioning to ARM have been going on for a while now.</p><p>I personally would <em>love</em> a well done transition. But only if it includes support for AMD64 for a few more years. They <em>just</em> dropped support for 32-bit Applications in Catalina, so I guess they’re not completely dropping AMD64 soon. Their past processor architecture transitions have been pretty smooth, so I have some faith.</p><p>Apple has been unhappy with their Intel chips for a while now, and I think that hey haven’t switched to AMD yet is a sign that they’re actually working in custom Mac chips.</p><p>I will be staying clear of the first generation ones, but my current Laptop is due to being replaced during the next 2-3 years. I hope all major issues have died until then.</p><p>Dave Mark, writing for The Loop has posted a <a href="https://www.loopinsight.com/2020/06/10/a-few-good-reads-and-one-video-on-apple-and-arm-based-macs/">very good list</a>, collecting the thoughts of John Gruber, David Shayer, and Dieter Bohn</p>]]></content:encoded>
+        </item>
+        <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-11_Saturns_Hexagon</guid>
             <title>What causes Saturn’s strange polar cloud hexagon?</title>
-            <description>Black Lives Matter.</description>
+            <description>A new proof-of-concept study about Saturns Hexagons and what could cause them</description>
             <link>https://groundphlegm.wedro.online/posts/2020-06-11_Saturns_Hexagon</link>
             <pubDate>Thu, 11 Jun 2020 07:32:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>I find Saturns Hexagon super interesting. The amount of guesswork is pretty high in this paper:</p><blockquote><p>We have limited data about anything but the uppermost layers of Saturn’s atmosphere, and there are lots of physical properties that could be tweaked in search of a perfect match. But for now, this study presents one possible configuration of the model, described as a “proof of concept.”</p></blockquote><p>But nonetheless, I’m happy to see that they’re working on it and started making theories. I hope that with more time they’ll get more accurate data</p>]]></content:encoded>
