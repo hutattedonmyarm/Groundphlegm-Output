@@ -5,14 +5,14 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Wed, 17 Jun 2020 08:11:31 +0200</lastBuildDate>
-        <pubDate>Wed, 17 Jun 2020 08:11:31 +0200</pubDate>
+        <lastBuildDate>Wed, 17 Jun 2020 08:12:43 +0200</lastBuildDate>
+        <pubDate>Wed, 17 Jun 2020 08:12:43 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-17_Apple_In_App_Consumer_Business</guid>
             <title>The Flimsiness of ‘Business vs. Consumer’ as a Justification for Apple’s Rejection of Hey From the App Store for Not Using In-App Purchases</title>
-            <description>Apple is making up bullshit arguments about why “Hey” can’T be on the App Store</description>
+            <description>Apple is making up bullshit arguments about why “Hey” can’t be on the App Store</description>
             <link>https://groundphlegm.wedro.online/posts/2020-06-17_Apple_In_App_Consumer_Business</link>
             <pubDate>Wed, 17 Jun 2020 07:56:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>The new email service from Basecamp “Hey” <a href="https://www.protocol.com/hey-email-app-store-rejection">got an update to their app rejected</a>, because Apple can’t stop being Apple and is doing nefarious bullshit with their in-App-purchase guidelines.</p><p>Short version: “Hey” is not providing any option to signup or start a subscription from within their app (to workaround the 30% problem), the same as e.g. Netflix and Dropbox do. But because they <s>are a consumer and not a business product</s> are not as big as Netflix or Dropbox Apple is applying different rules here and are not allowing them in anyways.</p><p>Apple made up an argument about “Business vs. Customer”.</p><blockquote><p>First, no such distinction is made in the App Store Review Guidelines. The lone instance of “consumer” refers to the “Consumer Health Records API”.</p></blockquote><p>Oops. Apple is clearly on the wrong here, and they really need to sort their crap out when it comes to their review guidelines and especially in-App purchases.</p>]]></content:encoded>
