@@ -5,10 +5,34 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sun, 14 Jun 2020 08:34:34 +0200</lastBuildDate>
-        <pubDate>Sun, 14 Jun 2020 08:34:34 +0200</pubDate>
+        <lastBuildDate>Wed, 17 Jun 2020 08:11:31 +0200</lastBuildDate>
+        <pubDate>Wed, 17 Jun 2020 08:11:31 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-17_Apple_In_App_Consumer_Business</guid>
+            <title>The Flimsiness of ‘Business vs. Consumer’ as a Justification for Apple’s Rejection of Hey From the App Store for Not Using In-App Purchases</title>
+            <description>Apple is making up bullshit arguments about why “Hey” can’T be on the App Store</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-17_Apple_In_App_Consumer_Business</link>
+            <pubDate>Wed, 17 Jun 2020 07:56:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>The new email service from Basecamp “Hey” <a href="https://www.protocol.com/hey-email-app-store-rejection">got an update to their app rejected</a>, because Apple can’t stop being Apple and is doing nefarious bullshit with their in-App-purchase guidelines.</p><p>Short version: “Hey” is not providing any option to signup or start a subscription from within their app (to workaround the 30% problem), the same as e.g. Netflix and Dropbox do. But because they <s>are a consumer and not a business product</s> are not as big as Netflix or Dropbox Apple is applying different rules here and are not allowing them in anyways.</p><p>Apple made up an argument about “Business vs. Customer”.</p><blockquote><p>First, no such distinction is made in the App Store Review Guidelines. The lone instance of “consumer” refers to the “Consumer Health Records API”.</p></blockquote><p>Oops. Apple is clearly on the wrong here, and they really need to sort their crap out when it comes to their review guidelines and especially in-App purchases.</p>]]></content:encoded>
+        </item>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-17_CIA_Hacking_Tools_Theft</guid>
+            <title>Theft of CIAs hacking tools in 2017 happened because the CIA were being idiots</title>
+            <description>CIA’s hacking tools went public, because the CIA is incapable of doing security</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-17_CIA_Hacking_Tools_Theft</link>
+            <pubDate>Wed, 17 Jun 2020 07:56:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>In 2017 in <a href="https://arstechnica.com/information-technology/2017/03/wikileaks-publishes-what-it-says-is-trove-of-cia-hacking-tools/">a bunch of hacking tools from the CIA</a> found their way into the hands of other people.</p><p>Unfortunately the linked PDF is only a scan, without OCR applied, so I’m not going out of my way to manually type the quotes from it.</p><p>Turns out, that the CIA’s security was a bit too lax and the whole shebang could’ve been easily avoided.</p><p>This is just a friendly reminder that “let’s make back doors but only for the good guys” doesn’t work.</p>]]></content:encoded>
+        </item>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-17_Antitrust_App_Store_Apple_Pay</guid>
+            <title>EC opens antitrust probe into Apple Pay, Apple’s App Store</title>
+            <description>The European Commission is investigating Apple for its App Store and Apple Pay</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-17_Antitrust_App_Store_Apple_Pay</link>
+            <pubDate>Wed, 17 Jun 2020 07:49:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>The European Commission is investigating Apple for its App Store and Apple Pay.</p><blockquote><p>[…] over how Apple takes a 30 percent commission on every subscription signed up through its App Store in the first year, and then a 15 percent cut.</p></blockquote><blockquote><p>At the same time, the companies complained, Apple has promoted its own music and books services. The European Commission is also looking at whether App Store rules stifle competition in gaming and cloud services, according to people with direct knowledge of the situation.</p></blockquote><p>Apple has made quite a lot of people unhappy with its stance on in-App purchases. On one hand it’s pushing them (and subscriptions), on the other hand they are exceptions from their Family Sharing program.</p><p>Forcing all payments for digital goods to go through their system is inconvenient for the user (can’t buy e.g. Kindle ebooks from within the Amazon app, have to through their website), because Apple wants their 30% cut and Amazon doesn’t want to give that cut away. <strong>Nobody</strong> wins. Apple doesn’t get their 30%, the other businesses (Netflix, Amazon, etc) are losing some of their customers (who are unwilling to switch to the website, because the app isn’t even allowed to <em>link</em> to the site), and users have to suffer from the inconvenience.</p><p>The fact that they can offer their own services (Apple Music, Apple Arcade, Apple TV+) <em>without</em> the inconvenience and without giving away any profit is <em>clearly</em> an antitrust issue and I’m hoping that the EC is slapping them with a big fine. Apple needs to stop their crap.</p><p>The Verge <a href="https://www.theverge.com/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay">provides more information about the investigation into Apple Pay</a>:</p><blockquote><p>Apple has limited access to the Near Field Communication (NFC) functionality of its iPhone and Apple Watch devices, a move that means banks and other financial service providers can’t offer NFC payments through their own apps.</p></blockquote><p>I see the point, but I’d honestly prefer to use Apple Pay instead of the usually pretty meh apps from banks. My debit card doesn’t support Apple Pay yet (and I rarely pay with my credit card which <em>does</em> support it). Their app isn’t exactly crap, but it’s not good either. Just a solid <em>meh</em>.</p><p>However if the EC rules that they have to open that functionality and my bank then implements NFC payments within their own app, I’m not gonna complain.</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-14_Unauthorized_Water</guid>
             <title>Unauthorized Water</title>
