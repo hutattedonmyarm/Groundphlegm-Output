@@ -5,10 +5,26 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 22 Jun 2020 17:18:35 +0200</lastBuildDate>
-        <pubDate>Mon, 22 Jun 2020 17:18:35 +0200</pubDate>
+        <lastBuildDate>Mon, 22 Jun 2020 18:55:12 +0200</lastBuildDate>
+        <pubDate>Mon, 22 Jun 2020 18:55:12 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-22_No_Malware_for_bots</guid>
+            <title>Malware authors lock their crap behind CAPTCHAs to avoid automated analysis</title>
+            <description>The group behind the information-stealing Trojan GraceWire is now using websites with CAPTCHA to avoid automated analysis</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-22_No_Malware_for_bots</link>
+            <pubDate>Mon, 22 Jun 2020 18:08:00 +0200</pubDate>
+            <content:encoded><![CDATA[<blockquote><p>CHIMBORAZO, the group behind Dudear campaigns that deploy the info-stealing Trojan GraceWire, evolved their methods once again in constant pursuit of detection evasion. The group is now using websites with CAPTCHA to avoid automated analysis.</p></blockquote><p>Holy crap, this is hilarious</p>]]></content:encoded>
+        </item>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-22_CAL_on_ISS_makes_BECs</guid>
+            <title>Scientists have made Bose-Einstein condensates in space for the first time</title>
+            <description>The CAL on board the ISS is starting to provide results by creating longer lasting Bose-Einstein condensates than on earth</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-22_CAL_on_ISS_makes_BECs</link>
+            <pubDate>Mon, 22 Jun 2020 17:15:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>BEC laboratories (to put it super simple: Insanely powerful fridges) have been around for a few years and are a nifty tool to for researching quantum physics. However, they tend to be rather large and heavy, making them rather unsuitable to be launched into space and used on space stations. Of course, that problem has been solved, and the ISS has had a bit of time doing experiments with one, called the CAL (Cold Atom Lab).</p><blockquote><p>[...]On Earth, says Aveline, gravity will just pull the atoms in the center of the BEC cloud down to the bottom of the trap until they spill out, distorting the condensate or ruining it entirely. But in microgravity, the tools in the CAL can hold the atoms together even as the trap’s volume increases. That makes for a longer-lived condensate, which in turn allows scientists to study it longer than they could on Earth (this initial demonstration ran for 1.118 seconds, although the goal is to be able to detect the cloud for up to 10 seconds).</p></blockquote><p>This is not only super cool, but also pretty useful:<br><br>&gt; From a more practical perspective, Aveline believes the team’s work could pave the way for better inertial sensors. “The applications range from accelerometers and seismometers to gyroscopes,” he says.</p><p>Especially accelerometers are pretty much everywhere, so improving them could have all sorts of technological benefits</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-21_WWDC_macOS_Catalyst_App</guid>
             <title>Apple's Developer macOS App</title>
