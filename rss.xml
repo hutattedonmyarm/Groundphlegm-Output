@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Fri, 26 Jun 2020 10:10:10 +0200</lastBuildDate>
-        <pubDate>Fri, 26 Jun 2020 10:10:10 +0200</pubDate>
+        <lastBuildDate>Fri, 26 Jun 2020 10:55:11 +0200</lastBuildDate>
+        <pubDate>Fri, 26 Jun 2020 10:55:11 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-26_App_Store_Review_Policy_Update</guid>
+            <title>Apple makes a tiny step towards developers and doesn't block guideline violations in bug-fix updates</title>
+            <description>Apple updates their review policy for apps, adds feedback channel for developers</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-26_App_Store_Review_Policy_Update</link>
+            <pubDate>Fri, 26 Jun 2020 10:30:00 +0200</pubDate>
+            <content:encoded><![CDATA[<blockquote><p>Apple will [...] create additional channels for developers to share feedback during new developer forums that will occur throughout the coming year.</p></blockquote><p>This is a small step forward. We don't know yet how they will incorporate this feedback, so I'm reluctant to get my hopes up. But it's better than <em>nothing</em>.</p><blockquote><p>Additionally, two changes are coming to the app review process and will be implemented this summer. First, developers will not only be able to appeal decisions about whether an app violates a given guideline of the App Store Review Guidelines, but will also have a mechanism to challenge the guideline itself.</p></blockquote><p>Good news! Again, no clue how much this will matter in the end, but it's a <em>start</em>. Especially the point about appealing the rules themselves could be huge!</p><blockquote><p>Second, for apps that are already on the App Store, bug fixes will no longer be delayed over guideline violations except for those related to legal issues. Developers will instead be able to address the issue in their next submission.</p></blockquote><p>More good news, should've been like this from the very beginning. Obviously, Apple sometimes forces a new submission, e.g. when they require some changes (must support 64 bit, must use new privacy APIs, etc), so you can't keep going around this by <em>only</em> providing bug-fix updates.</p><p>Speacking of which, I'm super curious how apps will be handled which <em>always</em> put "bug fixes and improvements" into their apps and automatically release a new version every few days.</p><p>Soem of them don't do feature updates, because these get slowly rolled out via A/B tests instead of a big update every now and then</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-26_New_Members_joining_stop_hate_for_profit</guid>
             <title>Patagonia Joins the Stop Hate for Profit Campaign</title>
