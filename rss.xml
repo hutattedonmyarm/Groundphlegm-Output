@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 22 Jun 2020 22:50:10 +0200</lastBuildDate>
-        <pubDate>Mon, 22 Jun 2020 22:50:10 +0200</pubDate>
+        <lastBuildDate>Fri, 26 Jun 2020 10:10:10 +0200</lastBuildDate>
+        <pubDate>Fri, 26 Jun 2020 10:10:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-26_New_Members_joining_stop_hate_for_profit</guid>
+            <title>Patagonia Joins the Stop Hate for Profit Campaign</title>
+            <description>Patagonia, Upwork, REI, and The North Face join "Stop Hate For Profit"</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-06-26_New_Members_joining_stop_hate_for_profit</link>
+            <pubDate>Fri, 26 Jun 2020 10:05:00 +0200</pubDate>
+            <content:encoded><![CDATA[<blockquote><p>Patagonia is proud to join the Stop Hate for Profit campaign. We will pull all ads on Facebook and Instagram, effective immediately, through at least the end of July, pending meaningful action from the social media giant.</p></blockquote><p>The <a href="https://www.stophateforprofit.org/">Stop Hate For Profit</a> campaign is trying to get advertiserts to pull their ads from Facebook, because</p><blockquote><p>They allowed incitement to violence against protesters fighting for racial justice in America in the wake of George Floyd, Breonna Taylor, Tony McDade, Ahmaud Arbery, Rayshard Brooks and so many others.</p></blockquote><blockquote><p>They named Breitbart News a “trusted news source” and made The Daily Caller a “fact checker” despite both publications having records of working with known white nationalists.</p></blockquote><p>They're joining the ranks of Upwork, REI, and The North Face.</p><p>Even better, <a href="https://edition.cnn.com/2020/06/19/tech/north-face-facebook-ads/index.html">according to CNN</a> there might be more to come:</p><blockquote><p>North Face parent company VF Corp also told CNN its other apparel brands, including Dickies, Vans, and Timberland, were considering joining the protest.</p></blockquote><p>Sadly, the campaign's website doesn't seem to list everyone who joined in.</p><p>Let's hope for many new brands to follow!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-22_WWDC_iOS_iPadOS</guid>
             <title>WWDC 2020, my condensed thoughts</title>
