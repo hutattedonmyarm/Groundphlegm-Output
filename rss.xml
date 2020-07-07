@@ -5,10 +5,26 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Tue, 7 Jul 2020 08:25:09 +0200</lastBuildDate>
-        <pubDate>Tue, 7 Jul 2020 08:25:09 +0200</pubDate>
+        <lastBuildDate>Tue, 7 Jul 2020 08:50:10 +0200</lastBuildDate>
+        <pubDate>Tue, 7 Jul 2020 08:50:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-07_ThiefQuest_is_worse_than_we_thought</guid>
+            <title>New Mac ransomware is even more sinister than it appears</title>
+            <description>ThiefQuest (formerly EvilQuest) is even worse than we thought, it doesn’t only encrypt your crap, it seems passwords and CC data too!</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-07_ThiefQuest_is_worse_than_we_thought</link>
+            <pubDate>Tue, 7 Jul 2020 08:47:00 +0200</pubDate>
+            <content:encoded><![CDATA[<blockquote><p>(Researchers originally dubbed it EvilQuest until they discovered the Steam game series of the same name.)</p></blockquote><p>I’d be interested to know how that has affected their sales!</p><blockquote><p>In addition to ransomware, ThiefQuest has a whole other set of spyware capabilities that allow it to exfiltrate files from an infected computer, search the system for passwords and cryptocurrency wallet data, and run a robust keylogger to grab passwords, credit card numbers, or other financial information as a user types it in. The spyware component also lurks persistently as a backdoor on infected devices, meaning it sticks around even after a computer reboots, and could be used as a launchpad for additional, or "second stage," attacks. Given that ransomware is so rare on Macs to begin with, this one-two punch is especially noteworthy.</p></blockquote><p>That hurts. Be safe people!</p><blockquote><p>Though ThiefQuest is packed with menacing features, it's unlikely to infect your Mac anytime soon unless you download pirated, unvetted software.</p></blockquote><p>Well, torrenting does have a reputation for being filled with malware, looks like it’s not going to change any time soon.</p><blockquote><p>For your Mac to become infected, you would need to torrent a compromised installer and then dismiss a series of warnings from Apple in order to run it.</p></blockquote><p>You know, I despise how much macOS and iOS in recent years have started plastering the user with warning and password dialogs. It’s perfectly normal to have to re-enter your AppleID password after opening <s>iTunes</s> Music or <s>I</s>Books after a while. And <em>this</em> is the reason what that’s bad. People get used to ignore warnings and start blindly inputting their passwords when prompted</p>]]></content:encoded>
+        </item>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-07_AMP_address_confusion</guid>
+            <title>Where Am I?</title>
+            <description>Google’s AMP confuses users about which site they’re on. This could cause some serious phishing issues</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-07_AMP_address_confusion</link>
+            <pubDate>Tue, 7 Jul 2020 08:33:00 +0200</pubDate>
+            <content:encoded><![CDATA[<blockquote><p>Based on the contents of the page, I think I’m on The New York Times’ site. However, based on the domain visible in the address bar, I think I’m on google.com.</p></blockquote><blockquote><p>Do I trust the contents of the page or the address bar? How does the content of the page and the address bar relate in this context and elsewhere on the web?</p></blockquote><p>Non-technical users do have their issues with the address bar. That’s why it has been simplified so much. Google is pushing in that direction too. Many many hours of hammering “look at the address bar and look at the lock” into my parents and grandparents heads could be lost when it starts to be perfectly <em>normal</em> that the address bar and page itself give different info on where you are on the web.</p><p>Just another issue to throw on the pile of reasons why I hate AMP</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-07-EU_iVoting</guid>
             <title>MEPs blast ‘Apple-only‘ voting app</title>
