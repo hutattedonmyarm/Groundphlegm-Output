@@ -5,10 +5,28 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Tue, 7 Jul 2020 08:50:10 +0200</lastBuildDate>
-        <pubDate>Tue, 7 Jul 2020 08:50:10 +0200</pubDate>
+        <lastBuildDate>Thu, 9 Jul 2020 08:35:09 +0200</lastBuildDate>
+        <pubDate>Thu, 9 Jul 2020 08:35:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-09_Thunderbolt_4</guid>
+            <title>Intel reveals Thunderbolt 4</title>
+            <description>Thunderbolt 4 details are out. No extra bandwidth, but a few other goodies</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-09_Thunderbolt_4</link>
+            <pubDate>Thu, 9 Jul 2020 08:11:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>The minimum speed requirements is unsurprisingly still at 40 Gb/s, which is still a lot, instead they raised some of the other bars:</p><blockquote>
+<ul>
+<li> Double the minimum video and data requirements of Thunderbolt 3.<ul>
+  <li> Video: Support for two 4K displays or one 8K display.
+  <li> Data: PCIe at 32 Gbps for storage speeds up to 3,000 MBps.</ul>
+<li> Support for docks with up to four Thunderbolt 4 ports.
+<li> PC charging on at least one computer port.
+<li> Wake your computer from sleep by touching the keyboard or mouse when connected to a Thunderbolt dock.
+<li> Required Intel VT-d-based direct memory access (DMA) protection that helps prevent physical DMA attacks. (Read more in the Thunderbolt Security Brief.)
+</ul>
+</blockquote><p>There’s a comparison image in the article which I won’t include, because it sounds <em>very</em> marketing-y.</p><p>TB4 cables can now be 2m in length and enjoy the full bandwidth of 40 Gb/s, plus we can now get docks with up to <em>4</em> TB ports!</p><p>It also requires DMA (Direct Memory Access) protection, which on one hand is a good thing (there were a few attacks using TB3 and DMA in the past), but that sadly also lowers adoption rate and makes it more difficult to adopt (and costly too, because you’ll likely need either an Intel CPU or an extra chip for that)</p><p>Hey, I can’t wait for <em>even more</em> confusion around USB and Thunderbolt. Confusion around USB has been up a lot since they started renaming their old standards every time a new one came out (looking at you USB 3.1 and 3.2), shot up with USB-C (that’s only the connector and has not much to do with the underlying USB version number) where it started to get really tough to tell which cable and thing is supporting which USB-C feature and how compliant it is. <em>Then</em> it got bad, because TB3 and USB-C share the same connector. Now to add to the confusion we have TB4.</p><p>Enough about that though. Intel is planning to ship corresponding chips later this year. Apple has been pretty quiet about Thunderbolt in their ARM Macs, so we’ll see if they include TB ports, which version, and which USB version they’re going with</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-07_ThiefQuest_is_worse_than_we_thought</guid>
             <title>New Mac ransomware is even more sinister than it appears</title>
