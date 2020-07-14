@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Tue, 14 Jul 2020 18:40:10 +0200</lastBuildDate>
-        <pubDate>Tue, 14 Jul 2020 18:40:10 +0200</pubDate>
+        <lastBuildDate>Tue, 14 Jul 2020 18:55:10 +0200</lastBuildDate>
+        <pubDate>Tue, 14 Jul 2020 18:55:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-14_Gmail_Splitscreen_and_Gruber</guid>
+            <title>A Moment of Clarity Regarding the Raison d’Etre for the App Store</title>
+            <description>Gruber talks about the Gmail app and split-screen on iPadOS</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-14_Gmail_Splitscreen_and_Gruber</link>
+            <pubDate>Tue, 14 Jul 2020 18:45:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I agree with some of his sentiments:</p><blockquote><p>Feel free to file Google’s release this week of an update to their iPad Gmail app with support for split-screen multitasking under “better late than never”, but this is so late it borders on the absurd. It’s like the difference between showing up fashionably late and showing up a week after the party.</p></blockquote><p>[…]</p><blockquote><p>And an email client is near the top of the list of the type of apps where someone would want to use split-screen. Five years.</p></blockquote><p>However, look at this:</p><blockquote><p>I’d like to see all the vim, vigor, and vigilance Apple applies to making sure no app on the App Store is making a dime without Apple getting three cents applied instead to making sure there aren’t any scams or ripoffs, and that popular apps support good-citizen-of-the-platform features within a reasonable amount of time after those features are introduced in the OS.</p></blockquote><p>I’m all for Apple throwing out scams, ripoffs, and maybe even yet another shitty micro-transaction-riddled “game” <em>targeted at kids</em>.</p><p>But throwing them out for not using features? <strong>This sounds like hell</strong> It sounds <em>exactly</em> like the draconian ruleset the App Store is (sometimes rightfully!) called out to be. We don’t need to throw out apps just because they don’t implement a <em>convenience</em> feature. It’s not even about privacy or security, just convenience for the user.</p><p>Do I wish that more apps would adopt some feature more quickly? Yes! Do I shake my head at people using the Gmail app for their Gmail account, because they don’t think about alternatives or just configure their account with whatever app they want. <em>Absolutely!</em> But kicking an app out, because it’s not as convenient as others? Ugh. No. No, no, no!</p><blockquote><p>Video app that doesn’t support picture-in-picture? You’re out of the store. App doesn’t support dynamic type size but clearly should? You’re out. Poor accessibility support? Out. Popular email client that doesn’t support split screen? Out.</p></blockquote><p><em>Runs away screaming</em></p><p>I think Apple should do more to incentivise good iOS (and iPadOS and macOS) citizens, and nice behaviour, but <em>forcing</em> them‽</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-14_Kurzgesagt_Intelligence</guid>
             <title>What Is Intelligence? Where Does it Begin?</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-04_iMessage_for_Windows</link>
             <pubDate>Tue, 2 Jun 2020 10:56:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>If nothing else, it's a good read. Go and check it out!</p><p>I certainly understand that Apple wants to prevent spamming on their platform, but I love automating stuff, so I find it's quite a shame. On one hand I'd like to have an official iMesage app on Windows (I do own a Windows machine after all), on the other hand... have you <em>seen</em> their Windows software? iTunes is even worse than its macOS counterpart was (and honestly, "Music" is still crap), and iCloud is basically non-functional for me. <em>If</em> it works it's slow, but usually it just doesn't work at all.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-02_linked_blog</guid>
-            <title>Linklogging</title>
-            <description>I link, therefore I am</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-02_linked_blog</link>
-            <pubDate>Tue, 2 Jun 2020 08:43:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>Initially I wanted to go towards the linklog style of content, mostly because "oh, look what I found" and a comment about it is what I do <em>anyways</em>, but obviously the first entry (and this one too!) had to be different. Whoops.</p><p>I didn't even have a decent way yet to do it the way I want (by turning the blog titles into a link to the original), but I just implemented that. There's still some things missing, it sort of works now!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
