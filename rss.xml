@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Fri, 17 Jul 2020 17:45:11 +0200</lastBuildDate>
-        <pubDate>Fri, 17 Jul 2020 17:45:11 +0200</pubDate>
+        <lastBuildDate>Fri, 17 Jul 2020 18:05:09 +0200</lastBuildDate>
+        <pubDate>Fri, 17 Jul 2020 18:05:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_USB4_TB4</guid>
+            <title>ATP 387: USB4, TB4, ARM Macs</title>
+            <description>Another great ATP episode, this time with an extended follow up, insightful comments about ARM Macs and Thunderbolt 4 for dummies</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-17_USB4_TB4</link>
+            <pubDate>Fri, 17 Jul 2020 18:00:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>While I usually prefer to use the original title of what I link to, it doesn’t work as well with podcasts, because, well, they talk about multiple topics and I just want to link to two of them.</p><p>John explains the jungle of Thunderbolt 3 &amp; 4 and USB4 navigation quite nicely, here’s a direct link: https://overcast.fm/+Oc3ooK8/41:33</p><p>They touch the topic ARM Macs again too. It’s a fun episode, give it a listen!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Apple_won_the_EU_tax_war_for_now</guid>
             <title>Following defeat, European Commission doubles down on Apple tax critiques</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-06_Instagram_embedding</link>
             <pubDate>Sat, 6 Jun 2020 07:32:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>So, Instagram provides an API to embed posts on it. They also have a license to all their users photos. They specifically even gave themselves the rights to sub-license these to other users. Yet, they <em>don't</em> actually grant the rights to those embedding their posts.</p><p>This is <em>precisely</em> why we need an open Internet. The current social media platforms all do their best to keep users within their own ecosystem, without access from outside. Ever tried to follow a Facebook page without an account? Or a Twitter user? Or someone Instagram? The tech exists. RSS would do fine for these (in fact, I’m using <a href="https://github.com/RSS-Bridge/rss-bridge">RSS Bridge</a> to do exactly that), but more modern alternatives exist such as <a href="https://en.wikipedia.org/wiki/ActivityPub">ActivityPub</a>.</p><p>Both Twitter and Reddit are also closing down on their API, allowing certain features to be accessed only from their official client. Despite much better and more polished ones existing for both. Facebook has done so a long time ago already. You used to be able to do all sorts of fun shenanigans with it. Tom Scott has <a href="https://www.youtube.com/watch?v=BxV14h0kFs0">a fantastic video about that</a></p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-05_Cosmic_Hard_Drive</guid>
-            <title>Black holes could store information like holograms</title>
-            <description>Physicists theories that we *could* think of black holes as holograms and hold information</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-05_Cosmic_Hard_Drive</link>
-            <pubDate>Fri, 5 Jun 2020 18:56:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>The physics kind of hologram, not the Star Trek kind. Sorry!</p><p>I generally find physics super interesting, even though I barely understand any of it. To be fair, I'm not alone, a lot more in modern physics is an enormous question mark than most people realize. We basically <a href="http://phdcomics.com/noidea/">have no idea</a> what's going on.</p><p>Quantum gravity is a complex beast; gravity turns out to be super weird in all sorts of ways and we (that is, man very very smart people) haven't figured out yet how to combine quantum theory and gravity.</p><p>This new paper is based on the <a href="https://en.wikipedia.org/wiki/Holographic_principle">holographic principle</a> (no, not the <a href="https://album.link/en/i/1458752909">Epica Album</a> although it's pretty good. Go listen to it!) and therefore based on <a href="https://en.wikipedia.org/wiki/String_theory">String Theory</a>. That's super deep into "no fucking clue" territory.</p><p>Anyways, I still think it's a cool idea!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
