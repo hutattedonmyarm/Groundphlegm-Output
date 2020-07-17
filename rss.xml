@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Tue, 14 Jul 2020 18:55:10 +0200</lastBuildDate>
-        <pubDate>Tue, 14 Jul 2020 18:55:10 +0200</pubDate>
+        <lastBuildDate>Fri, 17 Jul 2020 17:30:10 +0200</lastBuildDate>
+        <pubDate>Fri, 17 Jul 2020 17:30:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Twitter_hack</guid>
+            <title>Hackers Convinced Twitter Employee to Help Them Hijack Accounts</title>
+            <description>Twitter got hacked, a bunch of high-profile accounts tweet out Bitcoin scamming tweets</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-17_Twitter_hack</link>
+            <pubDate>Fri, 17 Jul 2020 17:23:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I’ve seen a few different takes on that. Some say, that it was purely a social engineering thing and the attackers managed to gain access to Twitter’s internal tools.</p><blockquote><p>The second source added they paid the Twitter insider</p></blockquote><p>I hadn’t seen before that the attackers <em>paid</em> their inside person, but seems believable.</p><p>Hopefully, Twitter will provide a post-mortem detailing the incident.</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-14_Gmail_Splitscreen_and_Gruber</guid>
             <title>A Moment of Clarity Regarding the Raison d’Etre for the App Store</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-05_AMC_bankruptcy</link>
             <pubDate>Fri, 5 Jun 2020 08:33:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>Cory Doctorow is talking on his excellent Pluralistic blog about the collapse of AMC, and the monopolies involved in it.</p><blockquote><p>What's more, AMC took advantage of America's nonexistent antitrust law to buy most of its competitors, making it the only screen in town for many of America's cities.</p></blockquote><blockquote><p>AMC's demise matters, then, because it constitutes the bulk of American screens.</p></blockquote><p>This is going to be interesting how the movie industry is going to look like in a year or two. AMC is dying, and Disney now has Disney+ and <em>could</em> just release the bulk of it's movies there. "Trolls World Tour" was a raging success and "Artemis Fowl" is going to be released exclusively on Disney+ too.</p><p>However, Time-Warner are cutting into Disney's profit (not that Disney isn't still making truckloads of money though) there:</p><blockquote><p>So Disney needs big screens, especially since its Plan B, streaming media through Disney+, is being demolished by Time-Warner/AT&T;, which is using Trump FCC Chairman Ajit Pai's obliteration of Net Neutrality to upcharge customers who choose Disney+ over HBO Max.</p></blockquote>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-04_iMessage_for_Windows</guid>
-            <title>iMessage for Windows: A labor of love that will never see light of day (2018)</title>
-            <description>Building an iMeesage client for Windows</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-04_iMessage_for_Windows</link>
-            <pubDate>Tue, 2 Jun 2020 10:56:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>If nothing else, it's a good read. Go and check it out!</p><p>I certainly understand that Apple wants to prevent spamming on their platform, but I love automating stuff, so I find it's quite a shame. On one hand I'd like to have an official iMesage app on Windows (I do own a Windows machine after all), on the other hand... have you <em>seen</em> their Windows software? iTunes is even worse than its macOS counterpart was (and honestly, "Music" is still crap), and iCloud is basically non-functional for me. <em>If</em> it works it's slow, but usually it just doesn't work at all.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
