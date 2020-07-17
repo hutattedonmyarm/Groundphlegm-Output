@@ -5,17 +5,25 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Fri, 17 Jul 2020 18:20:10 +0200</lastBuildDate>
-        <pubDate>Fri, 17 Jul 2020 18:20:10 +0200</pubDate>
+        <lastBuildDate>Fri, 17 Jul 2020 18:35:10 +0200</lastBuildDate>
+        <pubDate>Fri, 17 Jul 2020 18:35:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Chilp_Chilp</guid>
+            <title>Introducing a new and improved Twitter API</title>
+            <description>The new Twitter API fixes *some* of the more annoying issues with the current one</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-17_Chilp_Chilp</link>
+            <pubDate>Fri, 17 Jul 2020 18:35:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>An unusual one, I’m not multiple days late for something!</p><p>I’m not entirely sure it needed a complete API redesign, it would’ve been enough to add the missing endpoints. They current API <strong>doesn’t let you retrieve the replies to a Tweet</strong>, so showing a conversation is practically impossible. (I’m aware that there are workarounds, e.g. by using the search and then some filtering, but that’s limited by the API too), doesn’t let you access polls (not even <em>that</em> a tweet does have a poll), so it seriously limits third party apps. As a happy user of Tweetbot I very much welcome this change. I’ll just hope that they will stop bullshitting developers, Twitter burned some serious bridges there.</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2017-07-17_Spideys_Webb_Shooters_are_broken</guid>
             <title>Webb space telescope launch delayed seven more months to late 2021</title>
             <description>James Webb Telescope launch delay to October 31, 2021</description>
             <link>https://groundphlegm.wedro.online/posts/2017-07-17_Spideys_Webb_Shooters_are_broken</link>
             <pubDate>Fri, 17 Jul 2020 18:30:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>If NASA can hold to the existing schedule and encounters no major additional problems, officials also believe the project's existing budget will cover the costs of the delay—meaning the space agency need not return to Congress to ask for more money.</p></blockquote><p>Good news!</p><p>I’m super excited about the telescope and sad to see the delay, but I prefer a late launch to a botched one.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<blockquote><p>If NASA can hold to the existing schedule and encounters no major additional problems, officials also believe the project's existing budget will cover the costs of the delay—meaning the space agency need not return to Congress to ask for more money.</p></blockquote><p>Good news!</p><p>I’m super excited about the telescope and sad to see the delay, but I prefer a late launch to a botched one. We are <a href="https://xkcd.com/2014/">used to JWT delays by now</a> too!</p>]]></content:encoded>
         </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Schrems_is_at_it_again</guid>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-11_ARM_Macs</link>
             <pubDate>Thu, 11 Jun 2020 07:56:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>First of all: WWDC is in two weeks, so we’ll then see if that’s true or not. Rumors about Apple transitioning to ARM have been going on for a while now.</p><p>I personally would <em>love</em> a well done transition. But only if it includes support for AMD64 for a few more years. They <em>just</em> dropped support for 32-bit Applications in Catalina, so I guess they’re not completely dropping AMD64 soon. Their past processor architecture transitions have been pretty smooth, so I have some faith.</p><p>Apple has been unhappy with their Intel chips for a while now, and I think that hey haven’t switched to AMD yet is a sign that they’re actually working in custom Mac chips.</p><p>I will be staying clear of the first generation ones, but my current Laptop is due to being replaced during the next 2-3 years. I hope all major issues have died until then.</p><p>Dave Mark, writing for The Loop has posted a <a href="https://www.loopinsight.com/2020/06/10/a-few-good-reads-and-one-video-on-apple-and-arm-based-macs/">very good list</a>, collecting the thoughts of John Gruber, David Shayer, and Dieter Bohn</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-11_Saturns_Hexagon</guid>
-            <title>What causes Saturn’s strange polar cloud hexagon?</title>
-            <description>A new proof-of-concept study about Saturns Hexagons and what could cause them</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-11_Saturns_Hexagon</link>
-            <pubDate>Thu, 11 Jun 2020 07:32:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>I find Saturns Hexagon super interesting. The amount of guesswork is pretty high in this paper:</p><blockquote><p>We have limited data about anything but the uppermost layers of Saturn’s atmosphere, and there are lots of physical properties that could be tweaked in search of a perfect match. But for now, this study presents one possible configuration of the model, described as a “proof of concept.”</p></blockquote><p>But nonetheless, I’m happy to see that they’re working on it and started making theories. I hope that with more time they’ll get more accurate data</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
