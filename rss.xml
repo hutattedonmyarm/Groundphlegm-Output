@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Fri, 17 Jul 2020 17:30:10 +0200</lastBuildDate>
-        <pubDate>Fri, 17 Jul 2020 17:30:10 +0200</pubDate>
+        <lastBuildDate>Fri, 17 Jul 2020 17:45:11 +0200</lastBuildDate>
+        <pubDate>Fri, 17 Jul 2020 17:45:11 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Apple_won_the_EU_tax_war_for_now</guid>
+            <title>Following defeat, European Commission doubles down on Apple tax critiques</title>
+            <description>The General Court of the European Union said that Apple pays all the taxes it needs to, the European Commission isn’t thrilled about it</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-17_Apple_won_the_EU_tax_war_for_now</link>
+            <pubDate>Fri, 17 Jul 2020 17:45:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I’m all on the European Commissions side here. While it may be <em>legal</em> what Apple is doing, it’s just plain absurd and disgusting. I’m especially sad to see Ireland fearing for its tax heaven status and agreeing with Apple.</p><p>The best thing to happen is a tax reform and simplification of the EU taxation laws.</p><blockquote><p>Just a few hours after the General Court ruling, the EU unveiled sweeping tax plans aimed at more transparent, simpler and fairer taxes. The plan included provisions that put increased pressure on digital platforms, like Apple's App Store.</p></blockquote><p>Luckily, the EU seems to agree with me.</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Twitter_hack</guid>
             <title>Hackers Convinced Twitter Employee to Help Them Hijack Accounts</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-05_Cosmic_Hard_Drive</link>
             <pubDate>Fri, 5 Jun 2020 18:56:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>The physics kind of hologram, not the Star Trek kind. Sorry!</p><p>I generally find physics super interesting, even though I barely understand any of it. To be fair, I'm not alone, a lot more in modern physics is an enormous question mark than most people realize. We basically <a href="http://phdcomics.com/noidea/">have no idea</a> what's going on.</p><p>Quantum gravity is a complex beast; gravity turns out to be super weird in all sorts of ways and we (that is, man very very smart people) haven't figured out yet how to combine quantum theory and gravity.</p><p>This new paper is based on the <a href="https://en.wikipedia.org/wiki/Holographic_principle">holographic principle</a> (no, not the <a href="https://album.link/en/i/1458752909">Epica Album</a> although it's pretty good. Go listen to it!) and therefore based on <a href="https://en.wikipedia.org/wiki/String_theory">String Theory</a>. That's super deep into "no fucking clue" territory.</p><p>Anyways, I still think it's a cool idea!</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-05_AMC_bankruptcy</guid>
-            <title>AMC's bankruptcy is the first domino in monopolist collapse</title>
-            <description>AMC is going bankrupt, blames the current situation. Lots of monopolies involved too.</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-05_AMC_bankruptcy</link>
-            <pubDate>Fri, 5 Jun 2020 08:33:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>Cory Doctorow is talking on his excellent Pluralistic blog about the collapse of AMC, and the monopolies involved in it.</p><blockquote><p>What's more, AMC took advantage of America's nonexistent antitrust law to buy most of its competitors, making it the only screen in town for many of America's cities.</p></blockquote><blockquote><p>AMC's demise matters, then, because it constitutes the bulk of American screens.</p></blockquote><p>This is going to be interesting how the movie industry is going to look like in a year or two. AMC is dying, and Disney now has Disney+ and <em>could</em> just release the bulk of it's movies there. "Trolls World Tour" was a raging success and "Artemis Fowl" is going to be released exclusively on Disney+ too.</p><p>However, Time-Warner are cutting into Disney's profit (not that Disney isn't still making truckloads of money though) there:</p><blockquote><p>So Disney needs big screens, especially since its Plan B, streaming media through Disney+, is being demolished by Time-Warner/AT&T;, which is using Trump FCC Chairman Ajit Pai's obliteration of Net Neutrality to upcharge customers who choose Disney+ over HBO Max.</p></blockquote>]]></content:encoded>
         </item>
     </channel>
 </rss>
