@@ -5,10 +5,26 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sat, 18 Jul 2020 08:15:11 +0200</lastBuildDate>
-        <pubDate>Sat, 18 Jul 2020 08:15:11 +0200</pubDate>
+        <lastBuildDate>Sun, 19 Jul 2020 19:50:14 +0200</lastBuildDate>
+        <pubDate>Sun, 19 Jul 2020 19:50:14 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-19_Deepbugging_Mass_Effect</guid>
+            <title>Fixing Mass Effect black blobs on modern AMD CPUs</title>
+            <description>An in-depth look at what’s up with Mass Effect’s black blobs</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-19_Deepbugging_Mass_Effect</link>
+            <pubDate>Sun, 19 Jul 2020 19:30:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I love these debugging deep dives!</p>]]></content:encoded>
+        </item>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-19_Woahrms_Armageddon</guid>
+            <title>Worms Armageddon Patch 3.8</title>
+            <description>Worms Armageddon gets a new patch!</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-19_Woahrms_Armageddon</link>
+            <pubDate>Fri, 17 Jul 2020 19:45:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>Wow! I’m a big fan of the old Worms games. World Party was my favourite back then, but Armageddon has held up a lot better. I’ll go ahead and install it again :)</p><p>So, what’s new?</p><ul><li>Support for higher FPS, animations are no longer capped at 50FPS</li><li>More world selection options</li><li>Windowed mode</li><li>Saving the landscape in the middle of a game (including all craters and stuff), and loading that later</li><li>Better support for newer OS</li><li>A few bug fixes</li></ul>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Chilp_Chilp</guid>
             <title>Introducing a new and improved Twitter API</title>
@@ -242,22 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-14_ATP_Membership</link>
             <pubDate>Sun, 14 Jun 2020 07:47:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>The excellent Accidental Tech Podcast has launched <a href="https://atp.fm/join">a membership program</a>. For $8/Month you can get access to their ad-free feed (and likely more to come!). While it seems a tad on the high end on first place, keep it mind that you’re getting roughly audiobook-length (8-ish hours) podcasts per month. They’re also making a very good show too!</p><p>The irony of this is, that of all the podcasts I listen to ATP is somewhere at the top of having enjoyable ads. They have <em>generally</em> good and interesting sponsors, the ad reads are fun and non-intrusive (unlike these super annoying dynamically inserted ones). ATP also has a very good ad-to-content ratio.</p><p>Even better, most of the podcasts I listen to which have more annoying ad reads either don’t provide an ad-free feed at all (if there’s a Patreon or similar it usually just provides extra content and other stuff) or are not made well enough for me to support them (show notes not being filled in, etc).</p><p>I suggest to go ahead and support ATP in their decision!</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-14_ZFS_Dependents</guid>
-            <title>OpenZFS removed offensive terminology from its code</title>
-            <description>The founding of OpenZFS submitted a patch to replace `slave` with `dependent` ; Pricks on the internet lose their shit</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-14_ZFS_Dependents</link>
-            <pubDate>Sun, 14 Jun 2020 07:47:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>I’m a fan of changing language to be more inclusive and less offending. Changing the language helps changing the culture!</p><p>There aren’t any downsides to the change and <code>dependent</code> is clearer in describing the function anyways.</p><p>Not surprisingly, the comments (first on Github, then on r/zfs) started losing their shit, because, uhh… Yeah.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-11_ARM_Macs</guid>
-            <title>Apple plans to announce ARM transition for all Macs at WWDC 2020</title>
-            <description>Rumor about Apple announcing custom ARM chips for their Mac lineup are manifesting again</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-11_ARM_Macs</link>
-            <pubDate>Thu, 11 Jun 2020 07:56:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>First of all: WWDC is in two weeks, so we’ll then see if that’s true or not. Rumors about Apple transitioning to ARM have been going on for a while now.</p><p>I personally would <em>love</em> a well done transition. But only if it includes support for AMD64 for a few more years. They <em>just</em> dropped support for 32-bit Applications in Catalina, so I guess they’re not completely dropping AMD64 soon. Their past processor architecture transitions have been pretty smooth, so I have some faith.</p><p>Apple has been unhappy with their Intel chips for a while now, and I think that hey haven’t switched to AMD yet is a sign that they’re actually working in custom Mac chips.</p><p>I will be staying clear of the first generation ones, but my current Laptop is due to being replaced during the next 2-3 years. I hope all major issues have died until then.</p><p>Dave Mark, writing for The Loop has posted a <a href="https://www.loopinsight.com/2020/06/10/a-few-good-reads-and-one-video-on-apple-and-arm-based-macs/">very good list</a>, collecting the thoughts of John Gruber, David Shayer, and Dieter Bohn</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
