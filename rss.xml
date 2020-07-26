@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sun, 19 Jul 2020 19:50:14 +0200</lastBuildDate>
-        <pubDate>Sun, 19 Jul 2020 19:50:14 +0200</pubDate>
+        <lastBuildDate>Sun, 26 Jul 2020 15:10:11 +0200</lastBuildDate>
+        <pubDate>Sun, 26 Jul 2020 15:10:11 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-26_ipv4_ipv6</guid>
+            <title>IPv4, IPv6, and a sudden change in attitude</title>
+            <description>An interesting read about the IP protocol</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-26_ipv4_ipv6</link>
+            <pubDate>Sun, 26 Jul 2020 15:02:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>A few weeks ago I stumbled upon the excellent <a href="https://apenwarr.ca/log/20170810">The World in Which IPv6 was a Good Design</a>, a rundown of the IP protocol’s history. Now, apenwarr has written more about IPv4 and IPv6. Go, read it!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-19_Deepbugging_Mass_Effect</guid>
             <title>Fixing Mass Effect black blobs on modern AMD CPUs</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-14_Unauthorized_Water</link>
             <pubDate>Sun, 14 Jun 2020 08:22:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>This story is popping up again. General Electric has added DRM to their <em>fridges</em>, only allowing genuine water filters. Unsurprisingly, the GE ones are more expensive than they need to to.</p><p>I immediately had to think about Cory’s excellent <a href="https://www.goodreads.com/book/show/41085118-unauthorized-bread">Unauthorized Bread</a> which he also mentions in his blog post.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-14_ATP_Membership</guid>
-            <title>Static Ad Removal: Accidental Tech Podcast launches a membership program</title>
-            <description>ATP launches a membership program to lower their dependency on sponsors</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-14_ATP_Membership</link>
-            <pubDate>Sun, 14 Jun 2020 07:47:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>The excellent Accidental Tech Podcast has launched <a href="https://atp.fm/join">a membership program</a>. For $8/Month you can get access to their ad-free feed (and likely more to come!). While it seems a tad on the high end on first place, keep it mind that you’re getting roughly audiobook-length (8-ish hours) podcasts per month. They’re also making a very good show too!</p><p>The irony of this is, that of all the podcasts I listen to ATP is somewhere at the top of having enjoyable ads. They have <em>generally</em> good and interesting sponsors, the ad reads are fun and non-intrusive (unlike these super annoying dynamically inserted ones). ATP also has a very good ad-to-content ratio.</p><p>Even better, most of the podcasts I listen to which have more annoying ad reads either don’t provide an ad-free feed at all (if there’s a Patreon or similar it usually just provides extra content and other stuff) or are not made well enough for me to support them (show notes not being filled in, etc).</p><p>I suggest to go ahead and support ATP in their decision!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
