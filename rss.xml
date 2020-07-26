@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sun, 26 Jul 2020 15:10:11 +0200</lastBuildDate>
-        <pubDate>Sun, 26 Jul 2020 15:10:11 +0200</pubDate>
+        <lastBuildDate>Sun, 26 Jul 2020 15:15:10 +0200</lastBuildDate>
+        <pubDate>Sun, 26 Jul 2020 15:15:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-26_BLM_vs_copright</guid>
+            <title>BLM footage censored by copyright bots</title>
+            <description>Worms Armageddon gets a new patch!</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-26_BLM_vs_copright</link>
+            <pubDate>Sun, 26 Jul 2020 15:10:00 +0200</pubDate>
+            <content:encoded><![CDATA[<blockquote><p>Because if your rally includes someone playing Marvin Gaye's "Let’s Get it On," 2Pac's "Keep Ya Head Up," Beyonce's "Freedom," Kanye's "Power" or Kendrick Lamar's "Alright" it is prone to disappearing from the net.</p></blockquote><blockquote><p>These are accidental takedowns, dolphins in the tuna net – but you can use this tactic to go dolphin fishing, too: "These removals are all accidental, in the sense that they are false positives, there is the possibility of deliberately leveraging these flaws in the system."</p></blockquote><p>Just in case somebody needed an <em>additional</em> reason of why we need a copyright reform. Maybe we could start with punishing automated and wrongful takedown requests. You know, for thins like <a href="https://www.msn.com/en-us/tv/news/comic-con-at-home-snafu-star-trek-panel-temporarily-blocked-on-youtube-by-cbs-copyright-complaint/ar-BB176OCc">these</a></p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-26_ipv4_ipv6</guid>
             <title>IPv4, IPv6, and a sudden change in attitude</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-17_Antitrust_App_Store_Apple_Pay</link>
             <pubDate>Wed, 17 Jun 2020 07:49:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>The European Commission is investigating Apple for its App Store and Apple Pay.</p><blockquote><p>[…] over how Apple takes a 30 percent commission on every subscription signed up through its App Store in the first year, and then a 15 percent cut.</p></blockquote><blockquote><p>At the same time, the companies complained, Apple has promoted its own music and books services. The European Commission is also looking at whether App Store rules stifle competition in gaming and cloud services, according to people with direct knowledge of the situation.</p></blockquote><p>Apple has made quite a lot of people unhappy with its stance on in-App purchases. On one hand it’s pushing them (and subscriptions), on the other hand they are exceptions from their Family Sharing program.</p><p>Forcing all payments for digital goods to go through their system is inconvenient for the user (can’t buy e.g. Kindle ebooks from within the Amazon app, have to through their website), because Apple wants their 30% cut and Amazon doesn’t want to give that cut away. <strong>Nobody</strong> wins. Apple doesn’t get their 30%, the other businesses (Netflix, Amazon, etc) are losing some of their customers (who are unwilling to switch to the website, because the app isn’t even allowed to <em>link</em> to the site), and users have to suffer from the inconvenience.</p><p>The fact that they can offer their own services (Apple Music, Apple Arcade, Apple TV+) <em>without</em> the inconvenience and without giving away any profit is <em>clearly</em> an antitrust issue and I’m hoping that the EC is slapping them with a big fine. Apple needs to stop their crap.</p><p>The Verge <a href="https://www.theverge.com/2020/6/16/21292651/apple-eu-antitrust-investigation-app-store-apple-pay">provides more information about the investigation into Apple Pay</a>:</p><blockquote><p>Apple has limited access to the Near Field Communication (NFC) functionality of its iPhone and Apple Watch devices, a move that means banks and other financial service providers can’t offer NFC payments through their own apps.</p></blockquote><p>I see the point, but I’d honestly prefer to use Apple Pay instead of the usually pretty meh apps from banks. My debit card doesn’t support Apple Pay yet (and I rarely pay with my credit card which <em>does</em> support it). Their app isn’t exactly crap, but it’s not good either. Just a solid <em>meh</em>.</p><p>However if the EC rules that they have to open that functionality and my bank then implements NFC payments within their own app, I’m not gonna complain.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-14_Unauthorized_Water</guid>
-            <title>Unauthorized Water</title>
-            <description>General Electric adds DRM to their fridge</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-14_Unauthorized_Water</link>
-            <pubDate>Sun, 14 Jun 2020 08:22:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>This story is popping up again. General Electric has added DRM to their <em>fridges</em>, only allowing genuine water filters. Unsurprisingly, the GE ones are more expensive than they need to to.</p><p>I immediately had to think about Cory’s excellent <a href="https://www.goodreads.com/book/show/41085118-unauthorized-bread">Unauthorized Bread</a> which he also mentions in his blog post.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
