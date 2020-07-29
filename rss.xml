@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Wed, 29 Jul 2020 15:15:11 +0200</lastBuildDate>
-        <pubDate>Wed, 29 Jul 2020 15:15:11 +0200</pubDate>
+        <lastBuildDate>Wed, 29 Jul 2020 15:45:12 +0200</lastBuildDate>
+        <pubDate>Wed, 29 Jul 2020 15:45:12 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-29_SETI</guid>
+            <title>The real science behind SETI’s hunt for intelligent aliens</title>
+            <description></description>
+            <link>https://groundphlegm.wedro.online/posts/2020-07-29_SETI</link>
+            <pubDate>Wed, 29 Jul 2020 15:30:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I’ve been fascinated by SETI for quite a while now, so whenever I stumble over a link with info about it I tend to inhale it. Maybe, partly, because it’s so ridiculous. Who knows.</p><p>Anyways, let’s get to the sciency bits!</p><blockquote><p>You may have heard of searching for life on other planets by looking for “biosignatures”—molecules or phenomena that would only occur or persist if life were present.</p></blockquote><blockquote><p>To detect spectroscopic biosignatures we will need telescopes like the James Webb Space Telescope (JWST) or the ground-based Extremely Large Telescope, both currently under construction.</p></blockquote><p>JWST is currently facing delays (again) though. Also, do yourself a favour and check out <a href="https://www.popsci.com/craziest-names-weve-given-important-scientific-devices/">telescope names</a>, there are some nice ones! There’s (of course!) even a <a href="https://xkcd.com/1294/">relevant XKCD</a></p><blockquote><p>[…]It would be most promising to look for radio waves because they are less likely to be absorbed by planetary atmospheres and require less energy to transmit.[…]</p></blockquote><blockquote><p>What’s special about these signals is that they exhibit high degrees of coherence, meaning there is a large amount of electromagnetic energy in just one frequency or a very small instance of time—not something nature typically does.</p></blockquote><blockquote><p>In March 2019, Pennsylvania State University announced the new Penn State Extraterrestrial Intelligence Center (PSETI)—to be led by Wright, who is a professor of astronomy and astrophysics at the school. One of just two astrobiology PhD programs in the world (the other is at UCLA), PSETI plans on hosting the first Penn State SETI Symposium in June 2021.</p></blockquote><blockquote><p>Some of PSETI’s main goals are to permanently fund SETI research worldwide, train the next generation of SETI practitioners, and support and foster a worldwide SETI community.</p></blockquote><blockquote><p>Wright often calls SETI low-hanging fruit. “This field has been starved of resources for so long that there is still a ton of work to do that could have been done decades ago,” says Wright. “We can very quickly make a lot of progress in this field without a lot of effort.”</p></blockquote>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-29_Woz_sues_Youtube</guid>
             <title>Steve Wozniak sues YouTube over ongoing bitcoin scams</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-17_Apple_In_App_Consumer_Business</link>
             <pubDate>Wed, 17 Jun 2020 07:56:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>The new email service from Basecamp “Hey” <a href="https://www.protocol.com/hey-email-app-store-rejection">got an update to their app rejected</a>, because Apple can’t stop being Apple and is doing nefarious bullshit with their in-App-purchase guidelines.</p><p>Short version: “Hey” is not providing any option to signup or start a subscription from within their app (to workaround the 30% problem), the same as e.g. Netflix and Dropbox do. But because they <s>are a consumer and not a business product</s> are not as big as Netflix or Dropbox Apple is applying different rules here and are not allowing them in anyways.</p><p>Apple made up an argument about “Business vs. Customer”.</p><blockquote><p>First, no such distinction is made in the App Store Review Guidelines. The lone instance of “consumer” refers to the “Consumer Health Records API”.</p></blockquote><p>Oops. Apple is clearly on the wrong here, and they really need to sort their crap out when it comes to their review guidelines and especially in-App purchases.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-17_CIA_Hacking_Tools_Theft</guid>
-            <title>Theft of CIAs hacking tools in 2017 happened because the CIA were being idiots</title>
-            <description>CIA’s hacking tools went public, because the CIA is incapable of doing security</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-17_CIA_Hacking_Tools_Theft</link>
-            <pubDate>Wed, 17 Jun 2020 07:56:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>In 2017 in <a href="https://arstechnica.com/information-technology/2017/03/wikileaks-publishes-what-it-says-is-trove-of-cia-hacking-tools/">a bunch of hacking tools from the CIA</a> found their way into the hands of other people.</p><p>Unfortunately the linked PDF is only a scan, without OCR applied, so I’m not going out of my way to manually type the quotes from it.</p><p>Turns out, that the CIA’s security was a bit too lax and the whole shebang could’ve been easily avoided.</p><p>This is just a friendly reminder that “let’s make back doors but only for the good guys” doesn’t work.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
