@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Thu, 30 Jul 2020 18:15:11 +0200</lastBuildDate>
-        <pubDate>Thu, 30 Jul 2020 18:15:11 +0200</pubDate>
+        <lastBuildDate>Sat, 1 Aug 2020 16:15:10 +0200</lastBuildDate>
+        <pubDate>Sat, 1 Aug 2020 16:15:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-01_Twitter_hack_arrest</guid>
+            <title>Three people have been charged for Twitter’s huge hack, and a Florida teen is in jail</title>
+            <description>The FBI got three people for the Twitter hack, mainly due to their stupidity.</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-08-01_Twitter_hack_arrest</link>
+            <pubDate>Sat, 1 Aug 2020 16:05:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>Remember the big <a href="https://groundphlegm.wedro.online//posts/2020-07-17_Twitter_hack/">Twitter hack</a> on July 15th? Well, we got our first arrests!</p><blockquote><p>Early on July 31st, the FBI, IRS, US Secret Service, and Florida law enforcement placed [a] 17-year-old Graham […] Florida [resident], under arrest. He’s accused of being the “mastermind” behind the biggest security and privacy breach in Twitter’s history</p></blockquote><blockquote><p>[…] he allegedly convinced a Twitter employee that he worked in the Twitter IT department and tricked that employee into giving him the credentials.</p></blockquote><blockquote><p>[…] [he] is currently in jail and being charged with over 30 felony counts, including organized fraud, communications fraud, identity theft, and hacking</p></blockquote><p>A 22-year-old hacked called “Rolex” and 19-year-old “Chaewon” were also arrested.</p><p>These two managed to ID themselves with their real driver’s licenses to Binance and Coinbase where some of the stolen Bitcoin ended up.</p><blockquote><p>[Rolex] is facing five years in prison and a $250,000 fine for one count of computer intrusion. [Chaewon] is being charged with computer intrusion, wire fraud conspiracy, and money laundering conspiracy, the most serious of which comes with a 20-year sentence and a $250,000 fine in the US.</p></blockquote><p>Make sure to also take a look at Twitter’s <a href="https://blog.twitter.com/en_us/topics/company/2020/an-update-on-our-security-incident.html">blog post</a> about the incident!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-30_Ancient_Bacteria</guid>
             <title>Bacteria live despite burial in seafloor mud for 100 million years</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-22_No_Malware_for_bots</link>
             <pubDate>Mon, 22 Jun 2020 18:08:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>CHIMBORAZO, the group behind Dudear campaigns that deploy the info-stealing Trojan GraceWire, evolved their methods once again in constant pursuit of detection evasion. The group is now using websites with CAPTCHA to avoid automated analysis.</p></blockquote><p>Holy crap, this is hilarious</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-22_CAL_on_ISS_makes_BECs</guid>
-            <title>Scientists have made Bose-Einstein condensates in space for the first time</title>
-            <description>The CAL on board the ISS is starting to provide results by creating longer lasting Bose-Einstein condensates than on earth</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-22_CAL_on_ISS_makes_BECs</link>
-            <pubDate>Mon, 22 Jun 2020 17:15:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>BEC laboratories (to put it super simple: Insanely powerful fridges) have been around for a few years and are a nifty tool to for researching quantum physics. However, they tend to be rather large and heavy, making them rather unsuitable to be launched into space and used on space stations. Of course, that problem has been solved, and the ISS has had a bit of time doing experiments with one, called the CAL (Cold Atom Lab).</p><blockquote><p>[...]On Earth, says Aveline, gravity will just pull the atoms in the center of the BEC cloud down to the bottom of the trap until they spill out, distorting the condensate or ruining it entirely. But in microgravity, the tools in the CAL can hold the atoms together even as the trap’s volume increases. That makes for a longer-lived condensate, which in turn allows scientists to study it longer than they could on Earth (this initial demonstration ran for 1.118 seconds, although the goal is to be able to detect the cloud for up to 10 seconds).</p></blockquote><p>This is not only super cool, but also pretty useful:<br><br>&gt; From a more practical perspective, Aveline believes the team’s work could pave the way for better inertial sensors. “The applications range from accelerometers and seismometers to gyroscopes,” he says.</p><p>Especially accelerometers are pretty much everywhere, so improving them could have all sorts of technological benefits</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
