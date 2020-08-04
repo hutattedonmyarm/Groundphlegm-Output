@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sat, 1 Aug 2020 16:15:10 +0200</lastBuildDate>
-        <pubDate>Sat, 1 Aug 2020 16:15:10 +0200</pubDate>
+        <lastBuildDate>Tue, 4 Aug 2020 21:00:14 +0200</lastBuildDate>
+        <pubDate>Tue, 4 Aug 2020 21:00:14 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-04_Splish_Splash_Cred_Dragon</guid>
+            <title>NASA Astronauts in SpaceX Capsule Make First Water Landing Since 1975</title>
+            <description></description>
+            <link>https://groundphlegm.wedro.online/posts/2020-08-04_Splish_Splash_Cred_Dragon</link>
+            <pubDate>Tue, 4 Aug 2020 20:55:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>Thanks NYT for the rather clunky title. But it <em>does</em> summarise pretty well what happened, so I’ll excuse it. In short: SpaceX launched Crew Dragon with Bob Behnken and Doug Hurley into orbit (would’ve been nice to have at least one female astronaut in there… <em>*</em>), they remained 64 days aboard the ISS, and now returned back into the blue of the blue planet.</p><p>Behnken and Hurley helped the sole Christopher J. Cassidy on it with the chores, did four space walks, operated the robot arm, and contributed to some experiments.</p><p class="footnote"><em>*</em>I get it, they’re Bob & Doug. Very good friends, both space veterans and generally a very solid choice. However it does leave a bit of a bad taste in my mouth. Also, I need to dig into how to do footnotes, Ink (the Markdown parser used by Publish) doesn’t do the <code>[^1]</code> style</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-01_Twitter_hack_arrest</guid>
             <title>Three people have been charged for Twitter’s huge hack, and a Florida teen is in jail</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-22_Hey_Update</link>
             <pubDate>Mon, 22 Jun 2020 18:45:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>First thing this morning, we released the newly-approved 1.0.2 bug-fix update to our customers. A win for Apple, a win for us, and a win for our customers.</p></blockquote><p>Good news!</p><blockquote><p>But then Schiller said “One way that HEY could have gone...is to offer a free or paid version of the app with basic email reading features on the App Store, then separately offered an upgraded email service that worked with the Hey app on iOS on its own website.”</p></blockquote><p>And</p><blockquote><p>This new version introduces a new free option for the iOS app</p></blockquote><p>While I’m happy for Hey, I’m disappointed that it wasn’t because of a change on Apple’s side</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-22_No_Malware_for_bots</guid>
-            <title>Malware authors lock their crap behind CAPTCHAs to avoid automated analysis</title>
-            <description>The group behind the information-stealing Trojan GraceWire is now using websites with CAPTCHA to avoid automated analysis</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-22_No_Malware_for_bots</link>
-            <pubDate>Mon, 22 Jun 2020 18:08:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>CHIMBORAZO, the group behind Dudear campaigns that deploy the info-stealing Trojan GraceWire, evolved their methods once again in constant pursuit of detection evasion. The group is now using websites with CAPTCHA to avoid automated analysis.</p></blockquote><p>Holy crap, this is hilarious</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
