@@ -5,17 +5,25 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sat, 8 Aug 2020 14:55:18 +0200</lastBuildDate>
-        <pubDate>Sat, 8 Aug 2020 14:55:18 +0200</pubDate>
+        <lastBuildDate>Sat, 8 Aug 2020 15:00:15 +0200</lastBuildDate>
+        <pubDate>Sat, 8 Aug 2020 15:00:15 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-08_Infecting_macOS_via_macro-laden_documents_and_0days</guid>
+            <title>Infecting macOS via macro-laden documents and 0days</title>
+            <description>A well written blog entry explaining how macros in Microsoft Office documents can escape the sandbox and infect macOS</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-08-08_Infecting_macOS_via_macro-laden_documents_and_0days</link>
+            <pubDate>Sat, 8 Aug 2020 14:55:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>A well written blog entry explaining how macros in Microsoft Office documents can escape the sandbox and infect macOS</p>]]></content:encoded>
+        </item>
+        <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-08_Contextual_ads_can_save_media</guid>
             <title>Contextual ads can save media</title>
-            <description></description>
+            <description>Why contextual ads are not only better for the user, but also better for the site who is running them</description>
             <link>https://groundphlegm.wedro.online/posts/2020-08-08_Contextual_ads_can_save_media</link>
             <pubDate>Sat, 8 Aug 2020 14:18:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>This is about behavioural ads vs contextual ones. So what are each of them?</p><blockquote><p>The mainstay of online advertising is "behavioral advertising" in which ads are placed based on dossiers of your activity and preferences that have been compiled by Big Tech giants and shadowy data-brokers.</p></blockquote><p>In contrast to contextual ads:</p><blockquote><p>That's when publishers sell off the right to advertise to you based on the subject of the article you're reading, your location (based on your IP address) and other metadata, like which browser and OS you're using.</p></blockquote><p>So, the issue (for whoever is running the ad, not the user) is the following:</p><blockquote><p>Advertising on the Washington Post is expensive. "Washington Post reader" is a valuable category unto itself: a lot of blue-chip firms will draw up marketing plans that say, "Make sure we tell Washington Post readers about this product!"</p></blockquote><blockquote><p>Here's the thing: the companies want to advertise to Washington Post readers, but they don't care about advertising in the Washington Post.</p></blockquote><p>For those who <em>don’t</em> get the ad bid, they still have the info that you are a WaPo reader. Now they can advertise to WaPo readers without having to advertise there! This is obviously a problem for the WaPo, because they want to sell their ad spaces, which is harder for them if firms can target the same people for cheaper somewhere else.</p><p>So why is the WaPo (and of course other publications!) still doing that?</p><blockquote><p>Data-brokers make crazy claims for how well their targeting works in "conversions" – that is, turning ads into sales.</p></blockquote><p>Doctorow found <a href="https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_38.pdf">a paper</a>, that says contextual ads are just as effective. Plus, they’re friendlier towards the user’s privacy (and thus easier to implement under GDPR)</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>This is about behavioural ads vs contextual ones. So what are each of them?</p><blockquote><p>The mainstay of online advertising is "behavioural advertising" in which ads are placed based on dossiers of your activity and preferences that have been compiled by Big Tech giants and shadowy data-brokers.</p></blockquote><p>In contrast to contextual ads:</p><blockquote><p>That's when publishers sell off the right to advertise to you based on the subject of the article you're reading, your location (based on your IP address) and other metadata, like which browser and OS you're using.</p></blockquote><p>So, the issue (for whoever is running the ad, not the user) is the following:</p><blockquote><p>Advertising on the Washington Post is expensive. "Washington Post reader" is a valuable category unto itself: a lot of blue-chip firms will draw up marketing plans that say, "Make sure we tell Washington Post readers about this product!"</p></blockquote><blockquote><p>Here's the thing: the companies want to advertise to Washington Post readers, but they don't care about advertising in the Washington Post.</p></blockquote><p>For those who <em>don’t</em> get the ad bid, they still have the info that you are a WaPo reader. Now they can advertise to WaPo readers without having to advertise there! This is obviously a problem for the WaPo, because they want to sell their ad spaces, which is harder for them if firms can target the same people for cheaper somewhere else.</p><p>So why is the WaPo (and of course other publications!) still doing that?</p><blockquote><p>Data-brokers make crazy claims for how well their targeting works in "conversions" – that is, turning ads into sales.</p></blockquote><p>Doctorow found <a href="https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_38.pdf">a paper</a>, that says contextual ads are just as effective. Plus, they’re friendlier towards the user’s privacy (and thus easier to implement under GDPR)</p>]]></content:encoded>
         </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-08_Latest_Firefox_rolls_out_Enhanced_Tracking_Protection_20</guid>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-07-07_Standard_For_Repairable</link>
             <pubDate>Tue, 7 Jul 2020 08:03:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>Last week, three years of arguing with industry finally paid off, as the European standard EN45554 was published. […] In plain English, it’s a standard for measuring how easy it is to repair stuff. It’s also a huge milestone for the fight for fair repair.</p></blockquote><p>The defined categories are as follows:</p><a href="https://valkyrie.cdn.ifixit.com/media/2020/02/28065229/Bildschirmfoto-2020-02-28-um-15.52.10.png"><img src="https://valkyrie.cdn.ifixit.com/media/2020/02/28065229/Bildschirmfoto-2020-02-28-um-15.52.10.png" alt="Repairability Categories"></a><p>This will obviously depend a lot on the definition of “feasible”. I have taken my old iPhones apart quite a few times, and the 6S is still doable (although a slight pain in my butt), but I’m not sure I’d touch newer ones, I’d be too scared to break its water resistance.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-07_LHC_Successor</guid>
-            <title>Europe officially sets its sights on a giant LHC successor</title>
-            <description>Europe is planning to build a 100km long successor to the LHC</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-07_LHC_Successor</link>
-            <pubDate>Tue, 7 Jul 2020 07:40:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>[…] building a huge tunnel at the CERN facility that will collide particles to enable a clean study of the Higgs boson. But Europe is leaving the option of using the tunnel for a future collider that could reach energies nearly 10 times higher than the LHC.</p></blockquote><p>Exiting times!</p><blockquote><p>The tunnel would be truly enormous, with a circumference of roughly 100km, meaning a diameter of roughly 30km. That would mean it would pass under the nearby Lake Geneva, requiring much deeper tunnels than those used for the LHC</p></blockquote><p>For comparison, the current LHC has a circumference of 27km</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
