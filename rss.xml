@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sat, 8 Aug 2020 09:25:09 +0200</lastBuildDate>
-        <pubDate>Sat, 8 Aug 2020 09:25:09 +0200</pubDate>
+        <lastBuildDate>Sat, 8 Aug 2020 09:35:09 +0200</lastBuildDate>
+        <pubDate>Sat, 8 Aug 2020 09:35:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-08_Latest_Firefox_rolls_out_Enhanced_Tracking_Protection_20</guid>
+            <title>Latest Firefox rolls out Enhanced Tracking Protection 2.0</title>
+            <description>Firefox gets a better Enhanced Tracking Protection which now also blocks redirect trackers</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-08-08_Latest_Firefox_rolls_out_Enhanced_Tracking_Protection_20</link>
+            <pubDate>Sat, 8 Aug 2020 09:30:00 +0200</pubDate>
+            <content:encoded><![CDATA[<blockquote><p>Redirect tracking goes around Firefox’s built-in third-party cookie-blocking policy by passing you through the tracker’s site before landing on your desired website. This enables them to see where you came from and where you are going.</p></blockquote><blockquote><p>ETP 2.0 protects you from an advanced tracking technique called redirect tracking, also known as bounce tracking. We will be rolling out ETP 2.0 over the next couple of weeks.</p></blockquote><blockquote><p>ETP 2.0 clears cookies and site data from tracking sites every 24 hours.</p></blockquote><p>This is good for users. Just one more reason to use Firefox!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-08_Apple_erroneously_revokes_Charlie_Monroes_developer_certificate</guid>
             <title>Apple erroneously revokes Charlie Monroe's developer certificate</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-06-26_App_Store_Review_Policy_Update</link>
             <pubDate>Fri, 26 Jun 2020 10:30:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>Apple will [...] create additional channels for developers to share feedback during new developer forums that will occur throughout the coming year.</p></blockquote><p>This is a small step forward. We don't know yet how they will incorporate this feedback, so I'm reluctant to get my hopes up. But it's better than <em>nothing</em>.</p><blockquote><p>Additionally, two changes are coming to the app review process and will be implemented this summer. First, developers will not only be able to appeal decisions about whether an app violates a given guideline of the App Store Review Guidelines, but will also have a mechanism to challenge the guideline itself.</p></blockquote><p>Good news! Again, no clue how much this will matter in the end, but it's a <em>start</em>. Especially the point about appealing the rules themselves could be huge!</p><blockquote><p>Second, for apps that are already on the App Store, bug fixes will no longer be delayed over guideline violations except for those related to legal issues. Developers will instead be able to address the issue in their next submission.</p></blockquote><p>More good news, should've been like this from the very beginning. Obviously, Apple sometimes forces a new submission, e.g. when they require some changes (must support 64 bit, must use new privacy APIs, etc), so you can't keep going around this by <em>only</em> providing bug-fix updates.</p><p>Speacking of which, I'm super curious how apps will be handled which <em>always</em> put "bug fixes and improvements" into their apps and automatically release a new version every few days.</p><p>Soem of them don't do feature updates, because these get slowly rolled out via A/B tests instead of a big update every now and then</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-26_New_Members_joining_stop_hate_for_profit</guid>
-            <title>Patagonia Joins the Stop Hate for Profit Campaign</title>
-            <description>Patagonia, Upwork, REI, and The North Face join "Stop Hate For Profit"</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-26_New_Members_joining_stop_hate_for_profit</link>
-            <pubDate>Fri, 26 Jun 2020 10:05:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>Patagonia is proud to join the Stop Hate for Profit campaign. We will pull all ads on Facebook and Instagram, effective immediately, through at least the end of July, pending meaningful action from the social media giant.</p></blockquote><p>The <a href="https://www.stophateforprofit.org/">Stop Hate For Profit</a> campaign is trying to get advertiserts to pull their ads from Facebook, because</p><blockquote><p>They allowed incitement to violence against protesters fighting for racial justice in America in the wake of George Floyd, Breonna Taylor, Tony McDade, Ahmaud Arbery, Rayshard Brooks and so many others.</p></blockquote><blockquote><p>They named Breitbart News a “trusted news source” and made The Daily Caller a “fact checker” despite both publications having records of working with known white nationalists.</p></blockquote><p>They're joining the ranks of Upwork, REI, and The North Face.</p><p>Even better, <a href="https://edition.cnn.com/2020/06/19/tech/north-face-facebook-ads/index.html">according to CNN</a> there might be more to come:</p><blockquote><p>North Face parent company VF Corp also told CNN its other apparel brands, including Dickies, Vans, and Timberland, were considering joining the protest.</p></blockquote><p>Sadly, the campaign's website doesn't seem to list everyone who joined in.</p><p>Let's hope for many new brands to follow!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
