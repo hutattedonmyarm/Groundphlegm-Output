@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sat, 8 Aug 2020 09:35:09 +0200</lastBuildDate>
-        <pubDate>Sat, 8 Aug 2020 09:35:09 +0200</pubDate>
+        <lastBuildDate>Sat, 8 Aug 2020 14:55:18 +0200</lastBuildDate>
+        <pubDate>Sat, 8 Aug 2020 14:55:18 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-08_Contextual_ads_can_save_media</guid>
+            <title>Contextual ads can save media</title>
+            <description></description>
+            <link>https://groundphlegm.wedro.online/posts/2020-08-08_Contextual_ads_can_save_media</link>
+            <pubDate>Sat, 8 Aug 2020 14:18:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>This is about behavioural ads vs contextual ones. So what are each of them?</p><blockquote><p>The mainstay of online advertising is "behavioral advertising" in which ads are placed based on dossiers of your activity and preferences that have been compiled by Big Tech giants and shadowy data-brokers.</p></blockquote><p>In contrast to contextual ads:</p><blockquote><p>That's when publishers sell off the right to advertise to you based on the subject of the article you're reading, your location (based on your IP address) and other metadata, like which browser and OS you're using.</p></blockquote><p>So, the issue (for whoever is running the ad, not the user) is the following:</p><blockquote><p>Advertising on the Washington Post is expensive. "Washington Post reader" is a valuable category unto itself: a lot of blue-chip firms will draw up marketing plans that say, "Make sure we tell Washington Post readers about this product!"</p></blockquote><blockquote><p>Here's the thing: the companies want to advertise to Washington Post readers, but they don't care about advertising in the Washington Post.</p></blockquote><p>For those who <em>don’t</em> get the ad bid, they still have the info that you are a WaPo reader. Now they can advertise to WaPo readers without having to advertise there! This is obviously a problem for the WaPo, because they want to sell their ad spaces, which is harder for them if firms can target the same people for cheaper somewhere else.</p><p>So why is the WaPo (and of course other publications!) still doing that?</p><blockquote><p>Data-brokers make crazy claims for how well their targeting works in "conversions" – that is, turning ads into sales.</p></blockquote><p>Doctorow found <a href="https://weis2019.econinfosec.org/wp-content/uploads/sites/6/2019/05/WEIS_2019_paper_38.pdf">a paper</a>, that says contextual ads are just as effective. Plus, they’re friendlier towards the user’s privacy (and thus easier to implement under GDPR)</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-08_Latest_Firefox_rolls_out_Enhanced_Tracking_Protection_20</guid>
             <title>Latest Firefox rolls out Enhanced Tracking Protection 2.0</title>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-07-07_LHC_Successor</link>
             <pubDate>Tue, 7 Jul 2020 07:40:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>[…] building a huge tunnel at the CERN facility that will collide particles to enable a clean study of the Higgs boson. But Europe is leaving the option of using the tunnel for a future collider that could reach energies nearly 10 times higher than the LHC.</p></blockquote><p>Exiting times!</p><blockquote><p>The tunnel would be truly enormous, with a circumference of roughly 100km, meaning a diameter of roughly 30km. That would mean it would pass under the nearby Lake Geneva, requiring much deeper tunnels than those used for the LHC</p></blockquote><p>For comparison, the current LHC has a circumference of 27km</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-06-26_App_Store_Review_Policy_Update</guid>
-            <title>Apple makes a tiny step towards developers and doesn't block guideline violations in bug-fix updates</title>
-            <description>Apple updates their review policy for apps, adds feedback channel for developers</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-06-26_App_Store_Review_Policy_Update</link>
-            <pubDate>Fri, 26 Jun 2020 10:30:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>Apple will [...] create additional channels for developers to share feedback during new developer forums that will occur throughout the coming year.</p></blockquote><p>This is a small step forward. We don't know yet how they will incorporate this feedback, so I'm reluctant to get my hopes up. But it's better than <em>nothing</em>.</p><blockquote><p>Additionally, two changes are coming to the app review process and will be implemented this summer. First, developers will not only be able to appeal decisions about whether an app violates a given guideline of the App Store Review Guidelines, but will also have a mechanism to challenge the guideline itself.</p></blockquote><p>Good news! Again, no clue how much this will matter in the end, but it's a <em>start</em>. Especially the point about appealing the rules themselves could be huge!</p><blockquote><p>Second, for apps that are already on the App Store, bug fixes will no longer be delayed over guideline violations except for those related to legal issues. Developers will instead be able to address the issue in their next submission.</p></blockquote><p>More good news, should've been like this from the very beginning. Obviously, Apple sometimes forces a new submission, e.g. when they require some changes (must support 64 bit, must use new privacy APIs, etc), so you can't keep going around this by <em>only</em> providing bug-fix updates.</p><p>Speacking of which, I'm super curious how apps will be handled which <em>always</em> put "bug fixes and improvements" into their apps and automatically release a new version every few days.</p><p>Soem of them don't do feature updates, because these get slowly rolled out via A/B tests instead of a big update every now and then</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
