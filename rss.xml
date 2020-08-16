@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sun, 16 Aug 2020 19:55:09 +0200</lastBuildDate>
-        <pubDate>Sun, 16 Aug 2020 19:55:09 +0200</pubDate>
+        <lastBuildDate>Sun, 16 Aug 2020 20:05:10 +0200</lastBuildDate>
+        <pubDate>Sun, 16 Aug 2020 20:05:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-16_Mozilla_signs_fresh_Google_search_deal_worth_mega-millions_as_25_staff_cut_hits_Servo_MDN_security_teams</guid>
+            <title>Mozilla signs fresh Google search deal worth mega-millions as 25% staff cut hits Servo, MDN, security teams</title>
+            <description>Google continues to pay Mozilla to be their default search engine</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-08-16_Mozilla_signs_fresh_Google_search_deal_worth_mega-millions_as_25_staff_cut_hits_Servo_MDN_security_teams</link>
+            <pubDate>Sun, 16 Aug 2020 19:56:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>Given the recent <a href="https://groundphlegm.wedro.online//posts/2020-08-12_Mozilla_Layoffs">Mozilla personnel issues</a>, partly based on them not renewing their contract with Google, this is interesting news. I’ve argued before that I appreciate the money for Mozilla, but I hope they’ll find other means of finding the revenue they need.</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-16_Mozilla_vows_MDN_isnt_going_anywhere_as_layoffs_cause_panic_among_developers</guid>
             <title>Mozilla vows MDN ‘isn’t going anywhere’ as layoffs cause panic among developers</title>
@@ -250,14 +258,6 @@
 <li> Required Intel VT-d-based direct memory access (DMA) protection that helps prevent physical DMA attacks. (Read more in the Thunderbolt Security Brief.)
 </ul>
 </blockquote><p>There’s a comparison image in the article which I won’t include, because it sounds <em>very</em> marketing-y.</p><p>TB4 cables can now be 2m in length and enjoy the full bandwidth of 40 Gb/s, plus we can now get docks with up to <em>4</em> TB ports!</p><p>It also requires DMA (Direct Memory Access) protection, which on one hand is a good thing (there were a few attacks using TB3 and DMA in the past), but that sadly also lowers adoption rate and makes it more difficult to adopt (and costly too, because you’ll likely need either an Intel CPU or an extra chip for that)</p><p>Hey, I can’t wait for <em>even more</em> confusion around USB and Thunderbolt. Confusion around USB has been up a lot since they started renaming their old standards every time a new one came out (looking at you USB 3.1 and 3.2), shot up with USB-C (that’s only the connector and has not much to do with the underlying USB version number) where it started to get really tough to tell which cable and thing is supporting which USB-C feature and how compliant it is. <em>Then</em> it got bad, because TB3 and USB-C share the same connector. Now to add to the confusion we have TB4.</p><p>Enough about that though. Intel is planning to ship corresponding chips later this year. Apple has been pretty quiet about Thunderbolt in their ARM Macs, so we’ll see if they include TB ports, which version, and which USB version they’re going with</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-07_ThiefQuest_is_worse_than_we_thought</guid>
-            <title>New Mac ransomware is even more sinister than it appears</title>
-            <description>ThiefQuest (formerly EvilQuest) is even worse than we thought, it doesn’t only encrypt your crap, it seems passwords and CC data too!</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-07_ThiefQuest_is_worse_than_we_thought</link>
-            <pubDate>Tue, 7 Jul 2020 08:47:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>(Researchers originally dubbed it EvilQuest until they discovered the Steam game series of the same name.)</p></blockquote><p>I’d be interested to know how that has affected their sales!</p><blockquote><p>In addition to ransomware, ThiefQuest has a whole other set of spyware capabilities that allow it to exfiltrate files from an infected computer, search the system for passwords and cryptocurrency wallet data, and run a robust keylogger to grab passwords, credit card numbers, or other financial information as a user types it in. The spyware component also lurks persistently as a backdoor on infected devices, meaning it sticks around even after a computer reboots, and could be used as a launchpad for additional, or "second stage," attacks. Given that ransomware is so rare on Macs to begin with, this one-two punch is especially noteworthy.</p></blockquote><p>That hurts. Be safe people!</p><blockquote><p>Though ThiefQuest is packed with menacing features, it's unlikely to infect your Mac anytime soon unless you download pirated, unvetted software.</p></blockquote><p>Well, torrenting does have a reputation for being filled with malware, looks like it’s not going to change any time soon.</p><blockquote><p>For your Mac to become infected, you would need to torrent a compromised installer and then dismiss a series of warnings from Apple in order to run it.</p></blockquote><p>You know, I despise how much macOS and iOS in recent years have started plastering the user with warning and password dialogs. It’s perfectly normal to have to re-enter your AppleID password after opening <s>iTunes</s> Music or <s>I</s>Books after a while. And <em>this</em> is the reason what that’s bad. People get used to ignore warnings and start blindly inputting their passwords when prompted</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
