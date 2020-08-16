@@ -5,14 +5,22 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sun, 16 Aug 2020 19:50:14 +0200</lastBuildDate>
-        <pubDate>Sun, 16 Aug 2020 19:50:14 +0200</pubDate>
+        <lastBuildDate>Sun, 16 Aug 2020 19:55:09 +0200</lastBuildDate>
+        <pubDate>Sun, 16 Aug 2020 19:55:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-16_Mozilla_vows_MDN_isnt_going_anywhere_as_layoffs_cause_panic_among_developers</guid>
+            <title>Mozilla vows MDN ‘isn’t going anywhere’ as layoffs cause panic among developers</title>
+            <description>MDN will continue to exist despite layoffs. I’m wondering in what state though.</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-08-16_Mozilla_vows_MDN_isnt_going_anywhere_as_layoffs_cause_panic_among_developers</link>
+            <pubDate>Sun, 16 Aug 2020 19:48:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>During <a href="https://groundphlegm.wedro.online//posts/2020-08-12_Mozilla_Layoffs">Mozilla’s layoffs</a> their whole developer network, <a href="https://developer.mozilla.org/en-US/">MDN</a>, team got kicked out. MDN is a <em>fantastic</em> resource, but Mozilla is promising tat it’ll stick around:</p><blockquote><p>“MDN as a website isn’t going anywhere right now,” the spokesperson said in an email. “The team is smaller, but the site exists and isn’t going away. We will be working with partners and community members to find the right ways to move it forward given our new structure at Mozilla.”</p></blockquote><p>That doesn’t sound too promising if I’m honest. Oh, the site will continue to exist? And they’ll work with the community? Good riddance, I hope it will stay as good as it currently is.</p>]]></content:encoded>
+        </item>
+        <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-16_When_Microsofts_ambitious_Netflix_of_gaming_service_launches_in_September_it_wont_arrive_on_Apple_devices__heres_why</guid>
             <title>When Microsoft's ambitious 'Netflix of gaming' service launches in September, it won't arrive on Apple devices – here's why</title>
-            <description></description>
+            <description>Apple doesn’t like having Microsoft’s xCloud in the App Store, because they’re control freaks</description>
             <link>https://groundphlegm.wedro.online/posts/2020-08-16_When_Microsofts_ambitious_Netflix_of_gaming_service_launches_in_September_it_wont_arrive_on_Apple_devices__heres_why</link>
             <pubDate>Sun, 16 Aug 2020 19:40:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>[…]it won't be available on Apple's ubiquitous iPhone and iPad.</p></blockquote><blockquote><p>The reason, an Apple spokesperson said on Thursday, is because Apple isn't able to review each game that's available through Game Pass.</p></blockquote><p>Yeah, uh, because, this is <em>clearly</em> different than streaming Netflix, Youtube, or using a web browser. Because it’s “interactive”.</p><p>Screw that.</p><p>Considering their <a href="https://arstechnica.com/tech-policy/2020/08/epic-gives-fortnite-players-discounts-for-skirting-apple-google-fees/">fight with Epic</a> about App Store related issues, and the EU currently looking into antitrust issues about that topic, I really hope that they’ll get slapped super hard. The Accidental Tech Podcast had a good <a href="https://atp.fm/391">recent episode</a> talking about this too</p>]]></content:encoded>
@@ -250,14 +258,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-07-07_ThiefQuest_is_worse_than_we_thought</link>
             <pubDate>Tue, 7 Jul 2020 08:47:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>(Researchers originally dubbed it EvilQuest until they discovered the Steam game series of the same name.)</p></blockquote><p>I’d be interested to know how that has affected their sales!</p><blockquote><p>In addition to ransomware, ThiefQuest has a whole other set of spyware capabilities that allow it to exfiltrate files from an infected computer, search the system for passwords and cryptocurrency wallet data, and run a robust keylogger to grab passwords, credit card numbers, or other financial information as a user types it in. The spyware component also lurks persistently as a backdoor on infected devices, meaning it sticks around even after a computer reboots, and could be used as a launchpad for additional, or "second stage," attacks. Given that ransomware is so rare on Macs to begin with, this one-two punch is especially noteworthy.</p></blockquote><p>That hurts. Be safe people!</p><blockquote><p>Though ThiefQuest is packed with menacing features, it's unlikely to infect your Mac anytime soon unless you download pirated, unvetted software.</p></blockquote><p>Well, torrenting does have a reputation for being filled with malware, looks like it’s not going to change any time soon.</p><blockquote><p>For your Mac to become infected, you would need to torrent a compromised installer and then dismiss a series of warnings from Apple in order to run it.</p></blockquote><p>You know, I despise how much macOS and iOS in recent years have started plastering the user with warning and password dialogs. It’s perfectly normal to have to re-enter your AppleID password after opening <s>iTunes</s> Music or <s>I</s>Books after a while. And <em>this</em> is the reason what that’s bad. People get used to ignore warnings and start blindly inputting their passwords when prompted</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-07_AMP_address_confusion</guid>
-            <title>Where Am I?</title>
-            <description>Google’s AMP confuses users about which site they’re on. This could cause some serious phishing issues</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-07_AMP_address_confusion</link>
-            <pubDate>Tue, 7 Jul 2020 08:33:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>Based on the contents of the page, I think I’m on The New York Times’ site. However, based on the domain visible in the address bar, I think I’m on google.com.</p></blockquote><blockquote><p>Do I trust the contents of the page or the address bar? How does the content of the page and the address bar relate in this context and elsewhere on the web?</p></blockquote><p>Non-technical users do have their issues with the address bar. That’s why it has been simplified so much. Google is pushing in that direction too. Many many hours of hammering “look at the address bar and look at the lock” into my parents and grandparents heads could be lost when it starts to be perfectly <em>normal</em> that the address bar and page itself give different info on where you are on the web.</p><p>Just another issue to throw on the pile of reasons why I hate AMP</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
