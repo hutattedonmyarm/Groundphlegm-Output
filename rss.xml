@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sun, 16 Aug 2020 20:05:10 +0200</lastBuildDate>
-        <pubDate>Sun, 16 Aug 2020 20:05:10 +0200</pubDate>
+        <lastBuildDate>Sun, 16 Aug 2020 20:20:09 +0200</lastBuildDate>
+        <pubDate>Sun, 16 Aug 2020 20:20:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-16_Hubble_finds_that_Betelgeuses_mysterious_dimming_is_due_to_a_traumatic_outburst</guid>
+            <title>Hubble finds that Betelgeuse's mysterious dimming is due to a traumatic outburst</title>
+            <description>A bunch of ejected dust was causing Betelgeuse to dim</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-08-16_Hubble_finds_that_Betelgeuses_mysterious_dimming_is_due_to_a_traumatic_outburst</link>
+            <pubDate>Sun, 16 Aug 2020 20:12:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>Last year, we detected some unusual dimming of Betelgeuse. Now we know why:</p><blockquote><p>"With Hubble, we had previously observed hot convection cells on the surface of Betelgeuse and in the fall of 2019 we discovered a large amount of dense hot gas moving outwards through Betelgeuse's extended atmosphere. We think this gas cooled down millions of miles outside the star to form the dust that blocked the southern part of the star imaged in January and February," said Andrea Dupree, associate director of the Center for Astrophysics | Harvard &amp; Smithsonian, and lead author on the study.</p></blockquote>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-16_Mozilla_signs_fresh_Google_search_deal_worth_mega-millions_as_25_staff_cut_hits_Servo_MDN_security_teams</guid>
             <title>Mozilla signs fresh Google search deal worth mega-millions as 25% staff cut hits Servo, MDN, security teams</title>
@@ -240,24 +248,6 @@
             <link>https://groundphlegm.wedro.online/posts/2020-07-14_Grant_Imahara</link>
             <pubDate>Tue, 14 Jul 2020 17:58:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>For a change, I’m not linking to something I think is cool, want to yell about, or just have an opinion I want to put into the void.</p><p>I was incredibly sad when I saw the news earlier. Mythbusters was the only thing I insisted on turning the TV on for, and I immensely enjoyed the robots and things he built for the show.</p><p>He suddenly died at age 49 of a brain aneurysm. The world needs more people like him.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-09_Thunderbolt_4</guid>
-            <title>Intel reveals Thunderbolt 4</title>
-            <description>Thunderbolt 4 details are out. No extra bandwidth, but a few other goodies</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-09_Thunderbolt_4</link>
-            <pubDate>Thu, 9 Jul 2020 08:11:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>The minimum speed requirements is unsurprisingly still at 40 Gb/s, which is still a lot, instead they raised some of the other bars:</p><blockquote>
-<ul>
-<li> Double the minimum video and data requirements of Thunderbolt 3.<ul>
-  <li> Video: Support for two 4K displays or one 8K display.
-  <li> Data: PCIe at 32 Gbps for storage speeds up to 3,000 MBps.</ul>
-<li> Support for docks with up to four Thunderbolt 4 ports.
-<li> PC charging on at least one computer port.
-<li> Wake your computer from sleep by touching the keyboard or mouse when connected to a Thunderbolt dock.
-<li> Required Intel VT-d-based direct memory access (DMA) protection that helps prevent physical DMA attacks. (Read more in the Thunderbolt Security Brief.)
-</ul>
-</blockquote><p>There’s a comparison image in the article which I won’t include, because it sounds <em>very</em> marketing-y.</p><p>TB4 cables can now be 2m in length and enjoy the full bandwidth of 40 Gb/s, plus we can now get docks with up to <em>4</em> TB ports!</p><p>It also requires DMA (Direct Memory Access) protection, which on one hand is a good thing (there were a few attacks using TB3 and DMA in the past), but that sadly also lowers adoption rate and makes it more difficult to adopt (and costly too, because you’ll likely need either an Intel CPU or an extra chip for that)</p><p>Hey, I can’t wait for <em>even more</em> confusion around USB and Thunderbolt. Confusion around USB has been up a lot since they started renaming their old standards every time a new one came out (looking at you USB 3.1 and 3.2), shot up with USB-C (that’s only the connector and has not much to do with the underlying USB version number) where it started to get really tough to tell which cable and thing is supporting which USB-C feature and how compliant it is. <em>Then</em> it got bad, because TB3 and USB-C share the same connector. Now to add to the confusion we have TB4.</p><p>Enough about that though. Intel is planning to ship corresponding chips later this year. Apple has been pretty quiet about Thunderbolt in their ARM Macs, so we’ll see if they include TB ports, which version, and which USB version they’re going with</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
