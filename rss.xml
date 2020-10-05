@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Wed, 19 Aug 2020 20:45:10 +0200</lastBuildDate>
-        <pubDate>Wed, 19 Aug 2020 20:45:10 +0200</pubDate>
+        <lastBuildDate>Mon, 5 Oct 2020 19:10:10 +0200</lastBuildDate>
+        <pubDate>Mon, 5 Oct 2020 19:10:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_A_ride_that_takes_1020k_years_to_complete_in_Roller_Coaster_Tycoon_2</guid>
+            <title>A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2</title>
+            <description></description>
+            <link>https://groundphlegm.wedro.online/posts/2020-10-05_A_ride_that_takes_1020k_years_to_complete_in_Roller_Coaster_Tycoon_2</link>
+            <pubDate>Mon, 5 Oct 2020 19:02:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>As a big fan of RCT and RCT 2, this is insanely cool! Check out his explanation, it's an interesting dive into the path-finding of RCT2.</p><p>OpenRCT2 (an open-source re-implementation) <a href="https://github.com/OpenRCT2/OpenRCT2/pull/12546">patched the underlying issue</a> shortly after the video came out.</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-08-19_Facebook_account_now_required_to_login_to_Oculus_devices</guid>
             <title>Facebook account now required to login to Oculus devices</title>
@@ -250,14 +258,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-17_Apple_won_the_EU_tax_war_for_now</link>
             <pubDate>Fri, 17 Jul 2020 17:45:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>I’m all on the European Commissions side here. While it may be <em>legal</em> what Apple is doing, it’s just plain absurd and disgusting. I’m especially sad to see Ireland fearing for its tax heaven status and agreeing with Apple.</p><p>The best thing to happen is a tax reform and simplification of the EU taxation laws.</p><blockquote><p>Just a few hours after the General Court ruling, the EU unveiled sweeping tax plans aimed at more transparent, simpler and fairer taxes. The plan included provisions that put increased pressure on digital platforms, like Apple's App Store.</p></blockquote><p>Luckily, the EU seems to agree with me.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Twitter_hack</guid>
-            <title>Hackers Convinced Twitter Employee to Help Them Hijack Accounts</title>
-            <description>Twitter got hacked, a bunch of high-profile accounts tweet out Bitcoin scamming tweets</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-17_Twitter_hack</link>
-            <pubDate>Fri, 17 Jul 2020 17:23:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>I’ve seen a few different takes on that. Some say, that it was purely a social engineering thing and the attackers managed to gain access to Twitter’s internal tools.</p><blockquote><p>The second source added they paid the Twitter insider</p></blockquote><p>I hadn’t seen before that the attackers <em>paid</em> their inside person, but seems believable.</p><p>Hopefully, Twitter will provide a post-mortem detailing the incident.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
