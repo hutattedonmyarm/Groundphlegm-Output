@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 5 Oct 2020 20:50:08 +0200</lastBuildDate>
-        <pubDate>Mon, 5 Oct 2020 20:50:08 +0200</pubDate>
+        <lastBuildDate>Mon, 5 Oct 2020 21:10:09 +0200</lastBuildDate>
+        <pubDate>Mon, 5 Oct 2020 21:10:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_Clash_of_the_Geeks_Ten_Years_On</guid>
+            <title>Clash of the Geeks, Ten Years On</title>
+            <description>A ripped Wil Wheaton, battling an Orc John Scalzi while riding a Unicorn Pegasus Kitten</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-10-05_Clash_of_the_Geeks_Ten_Years_On</link>
+            <pubDate>Mon, 5 Oct 2020 20:57:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I've been following Scalzi and Wheaton for a while now. Both their blogs and and their books (Wheaton's acting too), but not since 2010. So this is the first time I had heard about Clash Of The Geeks. The gist is, that Scalzi had this weird idea and commissioned a <a href="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg">piece of art</a></p><a href="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg"><img src="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg" alt="Clash Of The Geeks cover"></a><p>Based on that, a few notable authors contributed with short stories, songs, poems and interviews. Patrick Rothfuss, Catherynne Valente, Rachel Swirsky, and of course Scalzi and Wheaton themselves. All of them describe their take on what the fuck is going on in that image.</p><p>It's glorious, go ahead and read it. It's free, but</p><blockquote><p>As before, there is no cost to this chapbook — it’s yours, enjoy! — but <a href="https://lubpus.org">if it inspires you to donate to a lupus-related charity</a>, that would be lovely.</p></blockquote>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_These_students_figured_out_their_tests_were_graded_by_AI__and_the_easy_way_to_cheat</guid>
             <title>These students figured out their tests were graded by AI — and the easy way to cheat</title>
@@ -250,14 +258,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-19_Woahrms_Armageddon</link>
             <pubDate>Fri, 17 Jul 2020 19:45:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>Wow! I’m a big fan of the old Worms games. World Party was my favourite back then, but Armageddon has held up a lot better. I’ll go ahead and install it again :)</p><p>So, what’s new?</p><ul><li>Support for higher FPS, animations are no longer capped at 50FPS</li><li>More world selection options</li><li>Windowed mode</li><li>Saving the landscape in the middle of a game (including all craters and stuff), and loading that later</li><li>Better support for newer OS</li><li>A few bug fixes</li></ul>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Chilp_Chilp</guid>
-            <title>Introducing a new and improved Twitter API</title>
-            <description>The new Twitter API fixes *some* of the more annoying issues with the current one</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-17_Chilp_Chilp</link>
-            <pubDate>Fri, 17 Jul 2020 18:35:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>An unusual one, I’m not multiple days late for something!</p><p>I’m not entirely sure it needed a complete API redesign, it would’ve been enough to add the missing endpoints. They current API <strong>doesn’t let you retrieve the replies to a Tweet</strong>, so showing a conversation is practically impossible. (I’m aware that there are workarounds, e.g. by using the search and then some filtering, but that’s limited by the API too), doesn’t let you access polls (not even <em>that</em> a tweet does have a poll), so it seriously limits third party apps. As a happy user of Tweetbot I very much welcome this change. I’ll just hope that they will stop bullshitting developers, Twitter burned some serious bridges there.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
