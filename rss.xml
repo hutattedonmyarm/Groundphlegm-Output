@@ -5,14 +5,14 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 5 Oct 2020 19:10:10 +0200</lastBuildDate>
-        <pubDate>Mon, 5 Oct 2020 19:10:10 +0200</pubDate>
+        <lastBuildDate>Mon, 5 Oct 2020 19:20:10 +0200</lastBuildDate>
+        <pubDate>Mon, 5 Oct 2020 19:20:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_A_ride_that_takes_1020k_years_to_complete_in_Roller_Coaster_Tycoon_2</guid>
             <title>A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2</title>
-            <description></description>
+            <description>Due to some pathfinding preferenes in RCT2 a well crafted mazes takes aged for our little visitors</description>
             <link>https://groundphlegm.wedro.online/posts/2020-10-05_A_ride_that_takes_1020k_years_to_complete_in_Roller_Coaster_Tycoon_2</link>
             <pubDate>Mon, 5 Oct 2020 19:02:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>As a big fan of RCT and RCT 2, this is insanely cool! Check out his explanation, it's an interesting dive into the path-finding of RCT2.</p><p>OpenRCT2 (an open-source re-implementation) <a href="https://github.com/OpenRCT2/OpenRCT2/pull/12546">patched the underlying issue</a> shortly after the video came out.</p>]]></content:encoded>
