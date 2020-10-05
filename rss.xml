@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 5 Oct 2020 19:45:09 +0200</lastBuildDate>
-        <pubDate>Mon, 5 Oct 2020 19:45:09 +0200</pubDate>
+        <lastBuildDate>Mon, 5 Oct 2020 20:30:09 +0200</lastBuildDate>
+        <pubDate>Mon, 5 Oct 2020 20:30:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_The_Harmful_Impact_of_Audible_Exclusive_Audiobooks</guid>
+            <title>The Harmful Impact of Audible Exclusive Audiobooks</title>
+            <description>Unsurprisingly, exclusives hurt the industry, and that extends to audiobooks too</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-10-05_The_Harmful_Impact_of_Audible_Exclusive_Audiobooks</link>
+            <pubDate>Mon, 5 Oct 2020 19:53:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I recently switched from Audible to <a href="https://libro.fm">libro.fm</a>, and I was pretty shocked at how many titles are exclusive to Audible. Other than that, I do like it, except some minor issues. (I can't open a membership from Germany, but I can <em>gift</em> one, so I just gifted myself one; and they haven't added any German publishers yet, but are working on it)</p><p>With the usual issues surrounding exclusives, Audible has two main extra problems:</p><ul><li><a href="https://pluralistic.net/2020/09/08/attack-surface-kickstarter/#asks">Audible will not carry any audiobooks unless they have DRM</a></li><li>Libraries, bookstores, schools, and anyone who isn’t affiliated with Amazon cannot distribute audiobooks that are Audible Exclusives.</li></ul><p>Yes, libraries! People, libraries are important! Both for accessibility and for getting people interested in reading. And it also hurts your favorite local bookstore.</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_Ive_worn_Alexa-enabled_glasses_for_two_weeks_Theyre_driving_me_bananas</guid>
             <title>I’ve worn Alexa-enabled glasses for two weeks. They’re driving me bananas</title>
@@ -250,14 +258,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-17_Schrems_is_at_it_again</link>
             <pubDate>Fri, 17 Jul 2020 18:14:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>I’m glad that Doctorow linked to an article and talked about it, because I did read about it on netzpolitik.org, but they didn’t do a translation on this one and I didn’t want to link to a German article. However, it also meant that I skipped hunting for an English source.</p><p>Schrems is doing important work here and has been fighting against Facebook for a while now.</p><p>It’s an important ruling, considering that I don’t trust US privacy laws further than I can throw an NSA data center.</p><p>Here’s a quick summary of the events:</p><ol><li>Schrems sues, because of Facebook’s extensive privacy issues</li><li>EU disallows that data of EU citizens is stored on US servers</li><li>“Privacy Shield” happens, which softens that ruling and is a sort of data-sharing deal</li><li>Schrems explains what this is bullshit (spoiler: it involves the NSA)</li><li>The EU court stops “Privacy Shield”.</li></ol><p>Quick sidetone: I love Doctorow’s URL hash for this entry!</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_USB4_TB4</guid>
-            <title>ATP 387: USB4, TB4, ARM Macs</title>
-            <description>Another great ATP episode, this time with an extended follow up, insightful comments about ARM Macs and Thunderbolt 4 for dummies</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-17_USB4_TB4</link>
-            <pubDate>Fri, 17 Jul 2020 18:00:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>While I usually prefer to use the original title of what I link to, it doesn’t work as well with podcasts, because, well, they talk about multiple topics and I just want to link to two of them.</p><p>John explains the jungle of Thunderbolt 3 &amp; 4 and USB4 navigation quite nicely, here’s a direct link: <a href="https://overcast.fm/+Oc3ooK8/41:33">https://overcast.fm/+Oc3ooK8/41:33</a></p><p>They touch the topic ARM Macs again too. It’s a fun episode, give it a listen!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
