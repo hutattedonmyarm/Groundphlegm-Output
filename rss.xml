@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 5 Oct 2020 20:40:08 +0200</lastBuildDate>
-        <pubDate>Mon, 5 Oct 2020 20:40:08 +0200</pubDate>
+        <lastBuildDate>Mon, 5 Oct 2020 20:50:08 +0200</lastBuildDate>
+        <pubDate>Mon, 5 Oct 2020 20:50:08 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_These_students_figured_out_their_tests_were_graded_by_AI__and_the_easy_way_to_cheat</guid>
+            <title>These students figured out their tests were graded by AI — and the easy way to cheat</title>
+            <description>Automatic test grading grades almost purely based on the presence of keywords. Students live on a healthy dose of word salad!</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-10-05_These_students_figured_out_their_tests_were_graded_by_AI__and_the_easy_way_to_cheat</link>
+            <pubDate>Mon, 5 Oct 2020 20:38:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>Head -&gt; Desk.</p><blockquote><p>Lazare writes two long sentences followed by a disjointed list of keywords[...]</p></blockquote><blockquote><p>“So you go through, okay, what are the possible keywords that are associated with this? [...]”</p></blockquote><blockquote><p>Apparently, that “word salad” is enough to get a perfect grade on any short-answer question in an Edgenuity test.</p></blockquote><p>I'm having a hard time calling this "AI". But more power to the students. Play stupid games, win stupid prices. Relying <em>completely</em> on the automatic grading without checking the output is plain idiotic</p><blockquote><p>Edgenuity didn’t respond to repeated requests for comment, but the company’s online help center suggests this may be by design. According to the website, answers to certain questions receive 0% if they include no keywords, and 100% if they include at least one.</p></blockquote><p>Incredible!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_The_Pharaoh_video_game_is_getting_a_remake</guid>
             <title>The Pharaoh video game is getting a remake</title>
@@ -250,14 +258,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-17_Chilp_Chilp</link>
             <pubDate>Fri, 17 Jul 2020 18:35:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>An unusual one, I’m not multiple days late for something!</p><p>I’m not entirely sure it needed a complete API redesign, it would’ve been enough to add the missing endpoints. They current API <strong>doesn’t let you retrieve the replies to a Tweet</strong>, so showing a conversation is practically impossible. (I’m aware that there are workarounds, e.g. by using the search and then some filtering, but that’s limited by the API too), doesn’t let you access polls (not even <em>that</em> a tweet does have a poll), so it seriously limits third party apps. As a happy user of Tweetbot I very much welcome this change. I’ll just hope that they will stop bullshitting developers, Twitter burned some serious bridges there.</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2017-07-17_Spideys_Webb_Shooters_are_broken</guid>
-            <title>Webb space telescope launch delayed seven more months to late 2021</title>
-            <description>James Webb Telescope launch delay to October 31, 2021</description>
-            <link>https://groundphlegm.wedro.online/posts/2017-07-17_Spideys_Webb_Shooters_are_broken</link>
-            <pubDate>Fri, 17 Jul 2020 18:30:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>If NASA can hold to the existing schedule and encounters no major additional problems, officials also believe the project's existing budget will cover the costs of the delay—meaning the space agency need not return to Congress to ask for more money.</p></blockquote><p>Good news!</p><p>I’m super excited about the telescope and sad to see the delay, but I prefer a late launch to a botched one. We are <a href="https://xkcd.com/2014/">used to JWT delays by now</a> too!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
