@@ -5,8 +5,8 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 5 Oct 2020 21:10:09 +0200</lastBuildDate>
-        <pubDate>Mon, 5 Oct 2020 21:10:09 +0200</pubDate>
+        <lastBuildDate>Mon, 5 Oct 2020 21:15:09 +0200</lastBuildDate>
+        <pubDate>Mon, 5 Oct 2020 21:15:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
@@ -15,7 +15,14 @@
             <description>A ripped Wil Wheaton, battling an Orc John Scalzi while riding a Unicorn Pegasus Kitten</description>
             <link>https://groundphlegm.wedro.online/posts/2020-10-05_Clash_of_the_Geeks_Ten_Years_On</link>
             <pubDate>Mon, 5 Oct 2020 20:57:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>I've been following Scalzi and Wheaton for a while now. Both their blogs and and their books (Wheaton's acting too), but not since 2010. So this is the first time I had heard about Clash Of The Geeks. The gist is, that Scalzi had this weird idea and commissioned a <a href="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg">piece of art</a></p><a href="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg"><img src="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg" alt="Clash Of The Geeks cover"></a><p>Based on that, a few notable authors contributed with short stories, songs, poems and interviews. Patrick Rothfuss, Catherynne Valente, Rachel Swirsky, and of course Scalzi and Wheaton themselves. All of them describe their take on what the fuck is going on in that image.</p><p>It's glorious, go ahead and read it. It's free, but</p><blockquote><p>As before, there is no cost to this chapbook — it’s yours, enjoy! — but <a href="https://lubpus.org">if it inspires you to donate to a lupus-related charity</a>, that would be lovely.</p></blockquote>]]></content:encoded>
+            <content:encoded><![CDATA[<p>I've been following Scalzi and Wheaton for a while now. Both their blogs and and their books (Wheaton's acting too), but not since 2010. So this is the first time I had heard about Clash Of The Geeks. The gist is, that Scalzi had this weird idea and commissioned a <a href="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg">piece of art</a></p><a href="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg"><img src="https://live.staticflickr.com/65535/50363001268_22f37a3294_b.jpg" alt="Clash Of The Geeks cover" style="max-height: 500px;"</a>
+
+Based on that, a few notable authors contributed with short stories, songs, poems and interviews. Patrick Rothfuss, Catherynne Valente, Rachel Swirsky, and of course Scalzi and Wheaton themselves. All of them describe their take on what the fuck is going on in that image.
+
+It's glorious, go ahead and read it. It's free, but
+
+> As before, there is no cost to this chapbook — it’s yours, enjoy! — but [if it inspires you to donate to a lupus-related charity](https://lubpus.org), that would be lovely.
+]]></content:encoded>
         </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_These_students_figured_out_their_tests_were_graded_by_AI__and_the_easy_way_to_cheat</guid>
