@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 5 Oct 2020 19:20:10 +0200</lastBuildDate>
-        <pubDate>Mon, 5 Oct 2020 19:20:10 +0200</pubDate>
+        <lastBuildDate>Mon, 5 Oct 2020 19:45:09 +0200</lastBuildDate>
+        <pubDate>Mon, 5 Oct 2020 19:45:09 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_Ive_worn_Alexa-enabled_glasses_for_two_weeks_Theyre_driving_me_bananas</guid>
+            <title>I’ve worn Alexa-enabled glasses for two weeks. They’re driving me bananas</title>
+            <description>It's like a secretary constantly whispering into your ear. In theory super cool, in real life sort of eerie.</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-10-05_Ive_worn_Alexa-enabled_glasses_for_two_weeks_Theyre_driving_me_bananas</link>
+            <pubDate>Mon, 5 Oct 2020 19:12:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I absolutely love the idea of smart glasses. There are some non-technical issues with them. The wearer's privacy, every one else's, and the implication that people instead of glancing at their smartphones in social situations they're now glancing at their glasses, which might interrupt and disturb these.</p><p>I also think the tech isn't quite there yet, both in terms of assistants and in terms of hardware. I'd also prefer having an image instead of just sound with these, otherwise they're just smart earbuds but without the rudeness of wearing earbuds during conversations.</p><blockquote><p>Up close, Alexa isn’t smart enough to know when you’re speaking with another human, so sometimes it interrupted with its random chirps.</p></blockquote><p>With smart watches and phones going more and more in the "always listening, waiting for a keyword" direction this will get better I think.</p><blockquote><p>My bigger technical problem has been keeping them running. The Frames battery has never really made it through the day — they conk out after three hours of constant music streaming at 60 percent volume.</p></blockquote><p>To be fair, I wouldn't <em>want</em> to use them to stream lots of music, due to their sound. So who knows how good the regular use battery life is.</p><p>All in all, I'm super curious how this sort of tech will develop within the next 5-10 years</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_A_ride_that_takes_1020k_years_to_complete_in_Roller_Coaster_Tycoon_2</guid>
             <title>A ride that takes 10^20k years to complete in Roller Coaster Tycoon 2</title>
@@ -250,14 +258,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-17_USB4_TB4</link>
             <pubDate>Fri, 17 Jul 2020 18:00:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>While I usually prefer to use the original title of what I link to, it doesn’t work as well with podcasts, because, well, they talk about multiple topics and I just want to link to two of them.</p><p>John explains the jungle of Thunderbolt 3 &amp; 4 and USB4 navigation quite nicely, here’s a direct link: <a href="https://overcast.fm/+Oc3ooK8/41:33">https://overcast.fm/+Oc3ooK8/41:33</a></p><p>They touch the topic ARM Macs again too. It’s a fun episode, give it a listen!</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Apple_won_the_EU_tax_war_for_now</guid>
-            <title>Following defeat, European Commission doubles down on Apple tax critiques</title>
-            <description>The General Court of the European Union said that Apple pays all the taxes it needs to, the European Commission isn’t thrilled about it</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-17_Apple_won_the_EU_tax_war_for_now</link>
-            <pubDate>Fri, 17 Jul 2020 17:45:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>I’m all on the European Commissions side here. While it may be <em>legal</em> what Apple is doing, it’s just plain absurd and disgusting. I’m especially sad to see Ireland fearing for its tax heaven status and agreeing with Apple.</p><p>The best thing to happen is a tax reform and simplification of the EU taxation laws.</p><blockquote><p>Just a few hours after the General Court ruling, the EU unveiled sweeping tax plans aimed at more transparent, simpler and fairer taxes. The plan included provisions that put increased pressure on digital platforms, like Apple's App Store.</p></blockquote><p>Luckily, the EU seems to agree with me.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
