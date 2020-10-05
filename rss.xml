@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 5 Oct 2020 20:30:09 +0200</lastBuildDate>
-        <pubDate>Mon, 5 Oct 2020 20:30:09 +0200</pubDate>
+        <lastBuildDate>Mon, 5 Oct 2020 20:40:08 +0200</lastBuildDate>
+        <pubDate>Mon, 5 Oct 2020 20:40:08 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_The_Pharaoh_video_game_is_getting_a_remake</guid>
+            <title>The Pharaoh video game is getting a remake</title>
+            <description>:)</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-10-05_The_Pharaoh_video_game_is_getting_a_remake</link>
+            <pubDate>Mon, 5 Oct 2020 20:26:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>Pharaoh was one of my favorite games (and I still dig it out every now and then - thanks GOG!), so I'm unreasonable excited for this.</p><blockquote><p>But we’re also game developers, that means a couple things are going to change, a couple systems are going to be adjusted, the UI and UX are going to be different. So, do not expect a remaster where nothing changes, this is a remake.</p></blockquote><p>Them being fans of the game gives me hope, and honestly, I prefer a remake over a remaster, mainly because the game actually works surprisingly well, so doing only a remaster would be a bit of a waste</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_The_Harmful_Impact_of_Audible_Exclusive_Audiobooks</guid>
             <title>The Harmful Impact of Audible Exclusive Audiobooks</title>
@@ -250,14 +258,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2017-07-17_Spideys_Webb_Shooters_are_broken</link>
             <pubDate>Fri, 17 Jul 2020 18:30:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>If NASA can hold to the existing schedule and encounters no major additional problems, officials also believe the project's existing budget will cover the costs of the delay—meaning the space agency need not return to Congress to ask for more money.</p></blockquote><p>Good news!</p><p>I’m super excited about the telescope and sad to see the delay, but I prefer a late launch to a botched one. We are <a href="https://xkcd.com/2014/">used to JWT delays by now</a> too!</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-17_Schrems_is_at_it_again</guid>
-            <title>EU court kills data-sharing deal with USA</title>
-            <description>The EU court rules against yet another data-sharing deal with the USA</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-17_Schrems_is_at_it_again</link>
-            <pubDate>Fri, 17 Jul 2020 18:14:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>I’m glad that Doctorow linked to an article and talked about it, because I did read about it on netzpolitik.org, but they didn’t do a translation on this one and I didn’t want to link to a German article. However, it also meant that I skipped hunting for an English source.</p><p>Schrems is doing important work here and has been fighting against Facebook for a while now.</p><p>It’s an important ruling, considering that I don’t trust US privacy laws further than I can throw an NSA data center.</p><p>Here’s a quick summary of the events:</p><ol><li>Schrems sues, because of Facebook’s extensive privacy issues</li><li>EU disallows that data of EU citizens is stored on US servers</li><li>“Privacy Shield” happens, which softens that ruling and is a sort of data-sharing deal</li><li>Schrems explains what this is bullshit (spoiler: it involves the NSA)</li><li>The EU court stops “Privacy Shield”.</li></ol><p>Quick sidetone: I love Doctorow’s URL hash for this entry!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
