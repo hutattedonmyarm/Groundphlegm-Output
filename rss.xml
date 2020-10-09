@@ -5,10 +5,18 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 5 Oct 2020 21:15:09 +0200</lastBuildDate>
-        <pubDate>Mon, 5 Oct 2020 21:15:09 +0200</pubDate>
+        <lastBuildDate>Fri, 9 Oct 2020 18:40:08 +0200</lastBuildDate>
+        <pubDate>Fri, 9 Oct 2020 18:40:08 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-09_Rock_Icon_Eddie_Van_Halen_Dies_At_65</guid>
+            <title>Rock Icon Eddie Van Halen Dies At 65</title>
+            <description>Sad to see a legend go</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-10-09_Rock_Icon_Eddie_Van_Halen_Dies_At_65</link>
+            <pubDate>Fri, 9 Oct 2020 08:00:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>I'm a big fan of metal, mostly leaning towards heavy metal. To see such a fantastic guitar player and big name go away is incredibly sad!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-05_Clash_of_the_Geeks_Ten_Years_On</guid>
             <title>Clash of the Geeks, Ten Years On</title>
@@ -257,14 +265,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-19_Deepbugging_Mass_Effect</link>
             <pubDate>Sun, 19 Jul 2020 19:30:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>I love these debugging deep dives!</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-19_Woahrms_Armageddon</guid>
-            <title>Worms Armageddon Patch 3.8</title>
-            <description>Worms Armageddon gets a new patch!</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-19_Woahrms_Armageddon</link>
-            <pubDate>Fri, 17 Jul 2020 19:45:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>Wow! I’m a big fan of the old Worms games. World Party was my favourite back then, but Armageddon has held up a lot better. I’ll go ahead and install it again :)</p><p>So, what’s new?</p><ul><li>Support for higher FPS, animations are no longer capped at 50FPS</li><li>More world selection options</li><li>Windowed mode</li><li>Saving the landscape in the middle of a game (including all craters and stuff), and loading that later</li><li>Better support for newer OS</li><li>A few bug fixes</li></ul>]]></content:encoded>
         </item>
     </channel>
 </rss>
