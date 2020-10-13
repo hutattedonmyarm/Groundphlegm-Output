@@ -5,10 +5,21 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Fri, 9 Oct 2020 18:40:08 +0200</lastBuildDate>
-        <pubDate>Fri, 9 Oct 2020 18:40:08 +0200</pubDate>
+        <lastBuildDate>Tue, 13 Oct 2020 21:20:10 +0200</lastBuildDate>
+        <pubDate>Tue, 13 Oct 2020 21:20:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-13_We_Hacked_Apple_for_3_Months_Heres_What_We_Found</guid>
+            <title>We Hacked Apple for 3 Months: Here’s What We Found</title>
+            <description>Sam Curry, Brett Buerhaus, Ben Sadeghipour, Samuel Erb, and Tanner Barnes hack into Apple's infrastructure and find some serious issues</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-10-13_We_Hacked_Apple_for_3_Months_Heres_What_We_Found</link>
+            <pubDate>Tue, 13 Oct 2020 20:59:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>A terrific read!</p><blockquote><p>Some of the immediate findings from the automated scanning were:</p></blockquote><blockquote><ul>
+ <li> VPN servers affected by Cisco CVE-2020-3452 Local File Read 1day (x22)</li>
+ <li> Leaked Spotify access token within an error message on a broken page</li>
+</ul></blockquote><p>Ouch</p><blockquote><p>When you submitted an application to use the forum, you supplied nearly all of the values of your account as if you were registering to the Jive forum normally. This would allow the Jive forum to know who you were based on your IDMSA cookie since it tied your email address belonging to your Apple account to the forum.</p></blockquote><blockquote><p>One of the values that was hidden on the page within the application to register to use the forum was a “password” field with the value “###INvALID#%!3”.</p></blockquote><blockquote><p>If anyone had applied using this system and there existed functionality where you could manually authenticate, you could simply login to their account using the default password and completely bypass the "Sign In With Apple" login.</p></blockquote><blockquote><p>After about two minutes we received a 302 response indicating a successful login to a user with a 3 character username using the default password we found earlier</p></blockquote><p>Ouch!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-09_Rock_Icon_Eddie_Van_Halen_Dies_At_65</guid>
             <title>Rock Icon Eddie Van Halen Dies At 65</title>
@@ -257,14 +268,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-26_ipv4_ipv6</link>
             <pubDate>Sun, 26 Jul 2020 15:02:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>A few weeks ago I stumbled upon the excellent <a href="https://apenwarr.ca/log/20170810">The World in Which IPv6 was a Good Design</a>, a rundown of the IP protocol’s history. Now, apenwarr has written more about IPv4 and IPv6. Go, read it!</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-19_Deepbugging_Mass_Effect</guid>
-            <title>Fixing Mass Effect black blobs on modern AMD CPUs</title>
-            <description>An in-depth look at what’s up with Mass Effect’s black blobs</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-19_Deepbugging_Mass_Effect</link>
-            <pubDate>Sun, 19 Jul 2020 19:30:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>I love these debugging deep dives!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
