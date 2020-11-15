@@ -5,10 +5,26 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Tue, 13 Oct 2020 21:20:10 +0200</lastBuildDate>
-        <pubDate>Tue, 13 Oct 2020 21:20:10 +0200</pubDate>
+        <lastBuildDate>Sun, 15 Nov 2020 15:30:11 +0100</lastBuildDate>
+        <pubDate>Sun, 15 Nov 2020 15:30:11 +0100</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-11-15_Netflix_drops_to_480p_for_soem_Philips_TVs_because_of_Widevine_issues</guid>
+            <title>Netflix drops to 480p for soem Philips TVs, because of Widevine issues</title>
+            <description></description>
+            <link>https://groundphlegm.wedro.online/posts/2020-11-15_Netflix_drops_to_480p_for_soem_Philips_TVs_because_of_Widevine_issues</link>
+            <pubDate>Sun, 15 Nov 2020 15:18:00 +0100</pubDate>
+            <content:encoded><![CDATA[<p>Netflix uses DRM to keep its content "secure" (at least in theory, in reality shows on there are still available, usually even witht he highest quality setting, for thise willing to pirate). <s>Sometimes</s> Usually, DRM fails and prevents paying customers from accessitng the content they are paying for, or degrades the experience. This is another one of these cases.</p><p>What happened? TVs with the MediaTek MT5891 chip got their Widevine level increased from level 1 (most trusted) to level 3. Essentially, this means that Netflix trusts the device less, thus it offers only a low quality stream to prevent pirates from snatching high quality rips. No one knows why this happened and it's <em>possible</em> that MediaTek can offer a firmware upgrade which resovles lets them get back to level 1 again.</p><p>In this case, they're working on fixing it (currently Full HD is back, 4K is "coming soon"), let's hope they'll keep doing tgat in the future.</p>]]></content:encoded>
+        </item>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-11-15_Webgl_Fluid_Simulation</guid>
+            <title>Webgl Fluid Simulation</title>
+            <description>Just a trippy browser-based fluid simulation</description>
+            <link>https://groundphlegm.wedro.online/posts/2020-11-15_Webgl_Fluid_Simulation</link>
+            <pubDate>Sun, 15 Nov 2020 15:12:00 +0100</pubDate>
+            <content:encoded><![CDATA[<p>This is super cool, but it might melt your GPU</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-10-13_We_Hacked_Apple_for_3_Months_Heres_What_We_Found</guid>
             <title>We Hacked Apple for 3 Months: Here’s What We Found</title>
@@ -252,22 +268,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-29_Woz_sues_Youtube</link>
             <pubDate>Wed, 29 Jul 2020 15:14:00 +0200</pubDate>
             <content:encoded><![CDATA[<blockquote><p>Steve Wozniak is suing YouTube for allowing scammers to use his name and likeness in phony bitcoin giveaways.</p></blockquote><blockquote><p>According to the lawsuit, filed in the Superior Court of the State of California, crooks have been posting videos on the platform claiming that Wozniak is hosting a bitcoin promotion.</p></blockquote><blockquote><p>“YouTube has featured a steady stream of scam videos and promotions that falsely use images and videos of Plaintiff Steve Wozniak, and other famous tech entrepreneurs, and that have defrauded YouTube users out of millions of dollars,” the complaint reads.</p></blockquote><p>The more YouTube gets yelled at for their failure to keep platform in check the better. I <em>know</em> it’s not easy to moderate these enormous amounts of content. But YouTube is doing such an incredibly shitty job, with videos getting demonetized for the most ridiculous of reasons, wrongful DMCA takedowns, radicalising and conspiracy rabbit holes <strong>and don’t even have a decent way for content creators to complain</strong>, that <em>something</em> needs to be done!</p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-26_BLM_vs_copright</guid>
-            <title>BLM footage censored by copyright bots</title>
-            <description>Some BLM videos are getting removed, because they have musicologists playing during the protests</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-26_BLM_vs_copright</link>
-            <pubDate>Sun, 26 Jul 2020 15:10:00 +0200</pubDate>
-            <content:encoded><![CDATA[<blockquote><p>Because if your rally includes someone playing Marvin Gaye's "Let’s Get it On," 2Pac's "Keep Ya Head Up," Beyonce's "Freedom," Kanye's "Power" or Kendrick Lamar's "Alright" it is prone to disappearing from the net.</p></blockquote><blockquote><p>These are accidental takedowns, dolphins in the tuna net – but you can use this tactic to go dolphin fishing, too: "These removals are all accidental, in the sense that they are false positives, there is the possibility of deliberately leveraging these flaws in the system."</p></blockquote><p>Just in case somebody needed an <em>additional</em> reason of why we need a copyright reform. Maybe we could start with punishing automated and wrongful takedown requests. You know, for thins like <a href="https://www.msn.com/en-us/tv/news/comic-con-at-home-snafu-star-trek-panel-temporarily-blocked-on-youtube-by-cbs-copyright-complaint/ar-BB176OCc">these</a></p>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-26_ipv4_ipv6</guid>
-            <title>IPv4, IPv6, and a sudden change in attitude</title>
-            <description>An interesting read about the IP protocol</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-26_ipv4_ipv6</link>
-            <pubDate>Sun, 26 Jul 2020 15:02:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p>A few weeks ago I stumbled upon the excellent <a href="https://apenwarr.ca/log/20170810">The World in Which IPv6 was a Good Design</a>, a rundown of the IP protocol’s history. Now, apenwarr has written more about IPv4 and IPv6. Go, read it!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
