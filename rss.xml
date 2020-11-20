@@ -5,17 +5,17 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Sun, 15 Nov 2020 15:30:11 +0100</lastBuildDate>
-        <pubDate>Sun, 15 Nov 2020 15:30:11 +0100</pubDate>
+        <lastBuildDate>Fri, 20 Nov 2020 08:10:29 +0100</lastBuildDate>
+        <pubDate>Fri, 20 Nov 2020 08:10:29 +0100</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-11-15_Netflix_drops_to_480p_for_soem_Philips_TVs_because_of_Widevine_issues</guid>
-            <title>Netflix drops to 480p for soem Philips TVs, because of Widevine issues</title>
+            <title>Netflix drops to 480p for some Philips TVs, because of Widevine issues</title>
             <description></description>
             <link>https://groundphlegm.wedro.online/posts/2020-11-15_Netflix_drops_to_480p_for_soem_Philips_TVs_because_of_Widevine_issues</link>
             <pubDate>Sun, 15 Nov 2020 15:18:00 +0100</pubDate>
-            <content:encoded><![CDATA[<p>Netflix uses DRM to keep its content "secure" (at least in theory, in reality shows on there are still available, usually even witht he highest quality setting, for thise willing to pirate). <s>Sometimes</s> Usually, DRM fails and prevents paying customers from accessitng the content they are paying for, or degrades the experience. This is another one of these cases.</p><p>What happened? TVs with the MediaTek MT5891 chip got their Widevine level increased from level 1 (most trusted) to level 3. Essentially, this means that Netflix trusts the device less, thus it offers only a low quality stream to prevent pirates from snatching high quality rips. No one knows why this happened and it's <em>possible</em> that MediaTek can offer a firmware upgrade which resovles lets them get back to level 1 again.</p><p>In this case, they're working on fixing it (currently Full HD is back, 4K is "coming soon"), let's hope they'll keep doing tgat in the future.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>Netflix uses DRM to keep its content "secure" (at least in theory, in reality shows on there are still available, usually even with the highest quality setting, for those willing to pirate). <s>Sometimes</s> Usually, DRM fails and prevents paying customers from accessing the content they are paying for, or degrades the experience. This is another one of these cases.</p><p>What happened? TVs with the MediaTek MT5891 chip got their Widevine level increased from level 1 (most trusted) to level 3. Essentially, this means that Netflix trusts the device less, thus it offers only a low quality stream to prevent pirates from snatching high quality rips. No one knows why this happened and it's <em>possible</em> that MediaTek can offer a firmware upgrade which resovles lets them get back to level 1 again.</p><p>In this case, they're working on fixing it (currently Full HD is back, 4K is "coming soon"), let's hope they'll keep doing tgat in the future.</p>]]></content:encoded>
         </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-11-15_Webgl_Fluid_Simulation</guid>
