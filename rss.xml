@@ -5,10 +5,27 @@
         <description>Content-Type: text/nonsense</description>
         <link>https://groundphlegm.wedro.online/</link>
         <language>en</language>
-        <lastBuildDate>Mon, 7 Jun 2021 18:25:17 +0200</lastBuildDate>
-        <pubDate>Mon, 7 Jun 2021 18:25:17 +0200</pubDate>
+        <lastBuildDate>Thu, 17 Jun 2021 17:10:10 +0200</lastBuildDate>
+        <pubDate>Thu, 17 Jun 2021 17:10:10 +0200</pubDate>
         <ttl>250</ttl>
         <atom:link href="https://groundphlegm.wedro.online/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2021-06-17_Reading_HEIC_images_with_python_PIL_on_Windows</guid>
+            <title>Reading HEIC images with python PIL on Windows</title>
+            <description>It's not pretty, but it works!</description>
+            <link>https://groundphlegm.wedro.online/posts/2021-06-17_Reading_HEIC_images_with_python_PIL_on_Windows</link>
+            <pubDate>Thu, 17 Jun 2021 16:25:00 +0200</pubDate>
+            <content:encoded><![CDATA[<p>Earlier today, I needed to open a HEIC image in PIL. A quick search found the packages <code>pyheif</code> and <code>pyheif-pillow-opener</code>. Well, turns out they don't work on Windows. And while I could just switch to a supported OS I really wanted to use Windows for this for a few reasons.</p><p>Some fiddling around later I had it working, here's how:</p><p><strong>Install libheif using vcpkg: <a href="https://github.com/Microsoft/vcpkg/">https://github.com/Microsoft/vcpkg/</a></strong></p><p>In order to read HEIC images we need <code>libheif</code>. The easiest way to get it is using <code>vcpkg</code>, a Microsoft tool to manage C and C++ libraries. Follow the installation guide on their github repo. In short:</p><ol><li>Clone the repo: <code>git clone https://github.com/Microsoft/vcpkg</code></li><li>Run the installation script: <code>.\vcpkg\bootstrap-vcpkg.bat</code></li><li>Install libheif (skip this if you're on a 32-Bit system and only run step 4): <code>.\vcpkg\vcpkg install libheif:x64-windows</code></li><li>I also installed the 32-Bit version, but I don't think it's necessary: <code>.\vcpkg\vcpkg install libheif</code></li><li>Not sure either if this is necessary, but I ran their integration from an elevated command prompt: <code>.\vcpkg\vcpkg integrate install</code></li></ol><p><strong>Install Imagemagick <a href="https://imagemagick.org/script/download.php#windows">https://imagemagick.org/script/download.php#windows</a></strong></p><p>I used the Windows binary, 16 bits-per-pixel, 64bit installer</p><p><strong>Install the python wand package</strong></p><p>Just run <code>pip install wand</code>. Make sure you're using a python 3 version and not python 2.7!</p><p>And that's it! Here's a snippet how to use it:</p><pre class="code">
+<code>
+from wand.image import Image
+import PIL.Image
+import io
+
+with Image(filename=r'img.HEIC') as img:
+    pil_image = PIL.Image.open(io.BytesIO(img.make_blob("jpg")))
+</code>
+</pre><p>It's pretty slow, because it needs to convert the image to jpg, but it works!</p>]]></content:encoded>
+        </item>
         <item>
             <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2021-06-07_The_Plotquisition</guid>
             <title>The Plotquisition</title>
@@ -260,14 +277,6 @@ Today, we’re announcing some important updates to how people log into Oculus d
             <link>https://groundphlegm.wedro.online/posts/2020-07-30_Ancient_Bacteria</link>
             <pubDate>Thu, 30 Jul 2020 18:07:00 +0200</pubDate>
             <content:encoded><![CDATA[<p>Yuki Morono and his team at the Japan Agency for Marine-Earth Science and Technology dug up 100 million year old mud from the sea and fed it (Well, not the mud itself, but whatever is hanging out in there).</p><blockquote><p>They grabbed plugs of sediment up to about 70 meters below the seafloor. Very little sediment accumulates here, so that 70-meter-thick pile of clay represents about 100 million years of time.</p></blockquote><p>In case you’re wondering if it can’t just be younger bacteria in the mud, there’s an answer:</p><blockquote><p>The thing is, the researchers don’t think this is just modern bacteria that have made their way deep into the mud. In fact, they shouldn’t be able to move at all in that mud. The average space between particles in the clay should be considerably smaller than the size of a bacterium. The presence of microbes in the oldest sediments represent communities that are about as old as the sediment itself, the researchers conclude.</p></blockquote><p>But back to feeding the mud:</p><blockquote><p>The researchers took these little plugs of sediment and injected substances bacteria can use to grow, like sugar and ammonia. And sure enough, bacteria grew and gobbled them up</p></blockquote><p>In conclusion:</p><blockquote><p>So if the researchers are right about what they’ve found, it’s a testament to the fact that life is nothing if not persistent. By slowing down to live within extremely limited means, these bacterial communities may have survived for a simply incredible length of time.</p></blockquote>]]></content:encoded>
-        </item>
-        <item>
-            <guid isPermaLink="true">https://groundphlegm.wedro.online/posts/2020-07-30_Mars_2020</guid>
-            <title>The real science behind SETI’s hunt for intelligent aliens</title>
-            <description>Mars 2020 is on its way, with a couple new experiments</description>
-            <link>https://groundphlegm.wedro.online/posts/2020-07-30_Mars_2020</link>
-            <pubDate>Thu, 30 Jul 2020 17:48:00 +0200</pubDate>
-            <content:encoded><![CDATA[<p><a href="https://cdn.arstechnica.net/wp-content/uploads/2020/07/IMG_2868-1440x960.jpg">Look at it go!</a></p><blockquote><p>Perseverance […] is carrying some unique experiments and hardware to Mars.</p></blockquote><p>Such as:</p><ul><li>MOXIE: Produce Oxygen from the mostly carbon dioxide atmosphere on Mars</li><li>A small helicopter (this is the “drone” people are talking about)</li><li>A special drill to cut intact cores of Martian rock, each about the size of a chalk stick, and store them.</li></ul><p>Well, what are they doing with these samples? Glad you asked! NASA is planning two more launches: Another rover to collect the samples plus a "Mars Ascent Vehicle” to, well, ascent the rocks. And then the second launch is a small orbiter which will dock the MAV, slap a heat shield on them and yank them into Earth’s atmosphere.</p><p>So, returning these samples back is going to be a whole lot of work and will include a bunch of begging for money, but let’s stay positiv and hopeful here!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
